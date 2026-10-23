@@ -1,0 +1,4777 @@
+[
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 1,
+    "hidden": true,
+    "title": "雲計算入門",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1. 什麼是雲計算?",
+            "md": "1\\. 什麼是雲計算?"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Ver：2025年 2月",
+            "md": "**Ver：2025年 2月**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 2,
+    "hidden": false,
+    "title": "雲計算入門",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1. 什麼是雲計算?",
+            "md": "1\\. 什麼是雲計算?"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Ver：2026年 9月",
+            "md": "**Ver：2026年 9月**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Change the color of the cover page for all ppt – visual clue to lecturers this is the latest version ✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 3,
+    "hidden": true,
+    "title": "本課程內容",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "什麼是雲計算"
+          },
+          {
+            "level": 0,
+            "text": "雲計算特性",
+            "md": "雲計算特性"
+          },
+          {
+            "level": 0,
+            "text": "雲計算類別",
+            "md": "雲計算類別"
+          },
+          {
+            "level": 0,
+            "text": "雲服務類別",
+            "md": "雲服務類別"
+          },
+          {
+            "level": 0,
+            "text": "雲服務實例",
+            "md": "雲服務實例"
+          },
+          {
+            "level": 0,
+            "text": "如何選擇適合雲服務?",
+            "md": "如何選擇適合雲服務?"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲遷移指引",
+            "md": "雲遷移指引"
+          },
+          {
+            "level": 0,
+            "text": "雲計算保安",
+            "md": "雲計算保安"
+          },
+          {
+            "level": 0,
+            "text": "雲運營",
+            "md": "雲運營"
+          },
+          {
+            "level": 0,
+            "text": "雲運營的工作角色",
+            "md": "雲運營的工作角色"
+          },
+          {
+            "level": 0,
+            "text": "雲計算成本管理",
+            "md": "雲計算成本管理"
+          },
+          {
+            "level": 0,
+            "text": "軟件開發及運營DevOps",
+            "md": "軟件開發及運營DevOps"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 4,
+    "hidden": false,
+    "title": "本課程內容",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "什麼是雲計算"
+          },
+          {
+            "level": 0,
+            "text": "雲計算優勢",
+            "md": "雲計算優勢"
+          },
+          {
+            "level": 0,
+            "text": "雲服務類別",
+            "md": "雲服務類別"
+          },
+          {
+            "level": 0,
+            "text": "雲計算類別",
+            "md": "雲計算類別"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "如何選擇適合雲服務",
+            "md": "如何選擇適合雲服務"
+          },
+          {
+            "level": 0,
+            "text": "雲運營",
+            "md": "雲運營"
+          },
+          {
+            "level": 0,
+            "text": "雲服務安全與管理",
+            "md": "雲服務安全與管理"
+          },
+          {
+            "level": 0,
+            "text": "雲計算人員角色",
+            "md": "雲計算人員角色"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "一步一步教你由雲服務的基礎概念，到選擇雲服務，到日常營運",
+            "md": "一步一步教你由雲服務的<span style=\"color:#FFCE2B\">**基礎概念**</span>，到<span style=\"color:#FFCE2B\">**選擇雲服務**</span>，到<span style=\"color:#FFCE2B\">**日常營運**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "務",
+            "md": "**務**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 5,
+    "hidden": false,
+    "title": "課業及晉級",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "晉級要求",
+            "md": "**晉級要求**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "課業",
+            "md": "**課業**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "總分數50分或以上（滿分為100）",
+            "md": "總分數<span style=\"color:#FFCE2B\">**50**</span>分或以上（滿分為100）"
+          },
+          {
+            "level": 0,
+            "text": "出席率70%或以上（面授課）",
+            "md": "出席率<span style=\"color:#FFCE2B\">**70%**</span>或以上（面授課）"
+          },
+          {
+            "level": 0,
+            "text": "達標者將獲得資歷架構認證2級（QF2）",
+            "md": "達標者將獲得資歷架構認證2級（QF2）"
+          },
+          {
+            "level": 0,
+            "text": "達到以上要求才能晉級下一年度高一級的雲計算課程",
+            "md": "達到以上要求才能晉級下一年度高一級的雲計算課程"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "測驗",
+            "md": "測驗"
+          },
+          {
+            "level": 1,
+            "text": "測驗一（20%）：選擇題，15分鐘",
+            "md": "測驗一（20%）：選擇題，15分鐘"
+          },
+          {
+            "level": 1,
+            "text": "測驗二（20%）：選擇題，15分鐘",
+            "md": "測驗二（20%）：選擇題，15分鐘"
+          },
+          {
+            "level": 1,
+            "text": "測驗三（20%）：選擇題，15分鐘",
+            "md": "測驗三（20%）：選擇題，15分鐘"
+          },
+          {
+            "level": 0,
+            "text": "實驗工作紙",
+            "md": "實驗工作紙"
+          },
+          {
+            "level": 1,
+            "text": "實驗工作紙一（20%）",
+            "md": "實驗工作紙一（20%）"
+          },
+          {
+            "level": 1,
+            "text": "實驗工作紙二（20%）",
+            "md": "實驗工作紙二（20%）"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 6,
+    "hidden": false,
+    "title": "AI 工具的應用與風險",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "圖像提示詞（可直接複製） Create a simple, clean educational diagram for a course slide. Flat vector illustration, minimalist, 16:9 landscape. BACKGROUND: pure white FFFFFF, completely plain — no texture, no pattern, no frame, no shadow, no coloured background panels. NO TITLE, NO HEADING, NO CAPTION. Only the short labels below. ALL text must be in Traditional Chinese 繁體中文, formal written style. No Simplified Chinese, no English, no Japanese. Labels only — 2 to 4 characters each, no sentences. Structure: a warning triangle outline with an exclamation mark at the top centre, with three thin lines radiating downward to three evenly spaced items in a horizontal row. Each item has one simple line icon above a label. Item 1 — label 「AI 幻覺」 icon: a speech bubble containing a question mark, with a small dashedoutline shape beside it suggesting something unreal Item 2 — label 「偏見」 icon: an unbalanced scale, one pan tilted lower than the other Item 3 — label 「私隱洩露」 icon: an open padlock with a small key beside it Style: flat design, thin 2px line icons, generous white space, no gradients, no 3D, no clutter, perfectly aligned and evenly spaced. Text colour deep navy 1F3A5F. Single accent colour amberorange E76F51 for the warning triangle, icons and connecting lines. Sansserif Traditional Chinese typeface Noto Sans TC style, clear and correct character strokes. Textbookquality, highly legible when projected in a classroom. 取捨說明 原內容 處理方式 日常已使用 AI、不可或缺、鼓勵善用 不入圖（鋪墊語，口頭講述） AI 幻覺 / 偏見 / 私隱洩露 入圖 → 三大風險主體 學會判斷何時不宜使用 AI 不入圖（結論句；已由警告三角形視覺暗示） 選項變化 若想同時呈現「善用 ↔ 風險」的對比 → 把 Structure 改為： left side: one thumbsup icon with label 「善用 AI」in teal 2A9D8F; a thin vertical divider line in the middle; right side: a warning triangle with the three risk icons and labels in amber E76F51 若中文字生成失敗 → 末尾加 leave all text areas as empty blank spaces，再自行補字。"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "課堂前，相信大家日常都經常使用AI工具，此已成為不可或缺的技能，本課程會使用許多AI 工具（例如：編程）。惟同學須留意三項風險：",
+            "md": "課堂前，相信大家日常都經常使用AI工具，此已成為不可或缺的技能，本課程會使用許多AI 工具（例如：編程）。惟同學須留意**三項風險**："
+          },
+          {
+            "level": 1,
+            "text": "AI 幻覺",
+            "md": "AI 幻覺"
+          },
+          {
+            "level": 1,
+            "text": "偏見",
+            "md": "偏見"
+          },
+          {
+            "level": 1,
+            "text": "私隱洩露",
+            "md": "私隱洩露"
+          },
+          {
+            "level": 1,
+            "text": "並學會判斷何時不宜使用 AI",
+            "md": "並學會判斷何時不宜使用 AI"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "This lecture will use a lot of AI, e.g. coding, so xxx and we need to be mindful of these... ✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 7,
+    "hidden": false,
+    "title": "三項風險",
+    "blocks": [
+      {
+        "type": "table",
+        "has_header": false,
+        "rows": [
+          [
+            "風險",
+            "是什麼",
+            "例子",
+            "應對方法"
+          ],
+          [
+            "幻覺",
+            "AI 捏造資料、出處與引文",
+            "引用一本並不存在的書，連頁數也寫得齊全",
+            "具體的數字、人名、出處，查證原始資料"
+          ],
+          [
+            "偏見",
+            "訓練數據隱含社會偏見",
+            "某工種過去主要由本地人擔任，AI 據此推斷非本地人不適合該工作，即使能力相同",
+            "多問「這是否適用於所有人？」，兼聽不同來源"
+          ],
+          [
+            "私隱風險",
+            "輸入內容或被儲存或被第三方存取",
+            "把住戶名單貼入AI對話框，即可能被供應商存取其內容",
+            "先移除個人資料、密碼、機密內容，再交予 AI"
+          ]
+        ],
+        "markdown": "|   |   |   |   |\n| --- | --- | --- | --- |\n| **風險** | **是什麼** | **例子** | **應對方法** |\n| **幻覺** | AI 捏造資料、出處與引文 | 引用一本並不存在的書，連頁數也寫得齊全 | 具體的數字、人名、出處，查證原始資料 |\n| **偏見** | 訓練數據隱含社會偏見 | 某工種過去主要由本地人擔任，AI 據此推斷非本地人不適合該工作，即使能力相同 | 多問「這是否適用於所有人？」，兼聽不同來源 |\n| **私隱風險** | 輸入內容或被儲存或被第三方存取 | 把住戶名單貼入AI對話框，即可能被供應商存取其內容 | 先移除個人資料、密碼、機密內容，再交予 AI |"
+      }
+    ],
+    "speaker_notes": "For 非本地人被歧視, need more elaboration, eg that job was picked up overwhelmingly by local Chinese in the past so when ask AI who are the best fit for the jobf it may think ethnic minority ppl are not fitting✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 8,
+    "hidden": false,
+    "title": "AI 協助規則：四步流程",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "The backgroud need to be white"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "此流程旨在培養批判思考，讓AI成為輔助學習的工具，而非取代學生的思考過程。",
+            "md": "<span style=\"color:#2C4C83\">**此流程旨在培養批判思考，讓AI成為輔助學習的工具，而非取代學生的思考過程。**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Ken said the chinese line at the bottom is not natural~ ✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 9,
+    "hidden": true,
+    "title": "今日課題",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網發展歷程",
+            "md": "互聯網發展歷程"
+          },
+          {
+            "level": 0,
+            "text": "電子商務的崛起",
+            "md": "電子商務的崛起"
+          },
+          {
+            "level": 0,
+            "text": "雲計算（Cloud Computing）的興起",
+            "md": "雲計算（Cloud Computing）的興起"
+          },
+          {
+            "level": 0,
+            "text": "雲計算的優點",
+            "md": "雲計算的優點"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "動⼿操作",
+            "md": "<span style=\"color:#42413C\">**動⼿操作**</span>"
+          },
+          {
+            "level": 1,
+            "text": "改動網頁",
+            "md": "改動網頁"
+          },
+          {
+            "level": 1,
+            "text": "體驗網站時光機",
+            "md": "體驗網站時光機"
+          },
+          {
+            "level": 1,
+            "text": "討論：你最喜歡的網路應用",
+            "md": "討論：你最喜歡的網路應用"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 10,
+    "hidden": false,
+    "title": "今日課題",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是互聯網萬維網",
+            "md": "什麼是互聯網萬維網"
+          },
+          {
+            "level": 0,
+            "text": "互聯網發與電子商務的崛起",
+            "md": "互聯網發與電子商務的崛起"
+          },
+          {
+            "level": 0,
+            "text": "什麼是雲計算（Cloud Computing）",
+            "md": "什麼是雲計算（Cloud Computing）"
+          },
+          {
+            "level": 0,
+            "text": "雲計算的優點",
+            "md": "雲計算的優點"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "動⼿操作",
+            "md": "<span style=\"color:#42413C\">**動⼿操作**</span>"
+          },
+          {
+            "level": 1,
+            "text": "改動網頁",
+            "md": "改動網頁"
+          },
+          {
+            "level": 1,
+            "text": "體驗網站時光機",
+            "md": "體驗網站時光機"
+          },
+          {
+            "level": 1,
+            "text": "討論：你最喜歡的網路應用",
+            "md": "討論：你最喜歡的網路應用"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 11,
+    "hidden": true,
+    "title": "什麼是互聯網?",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "OK！",
+            "md": "OK！"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A black text on a checkered background Description automatically generated"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網是全球範圍電腦互相溝通的網絡系統",
+            "md": "互聯網是全球範圍<span style=\"color:#0070C0\"><u>電腦互相溝通</u></span>的網絡系統"
+          },
+          {
+            "level": 0,
+            "text": "當你用電腦，手機或平板電腦（這些都是「電腦設備」） 在網上看片，打機或傳短訊（等等）時，在世界某方都有一部電腦和你的電腦在溝通、傳輸資料",
+            "md": "當你用電腦，手機或平板電腦（這些都是「電腦設備」） 在網上看片，打機或傳短訊（等等）時，在世界某方都有一部電腦和你的電腦在溝通、傳輸資料"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "向Youtube的電腦發出「請求」 (request)",
+            "md": "向Youtube的電腦發出<span style=\"color:#276F8B\">「請求」 (request)</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "向我的電腦傳輸“回應” (response)",
+            "md": "向我的電腦傳輸<span style=\"color:#276F8B\">“回應” (response)</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Presentation with media with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Binary with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "我想看",
+            "md": "我想看"
+          },
+          {
+            "level": 0,
+            "text": "這套片",
+            "md": "這套片"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 12,
+    "hidden": false,
+    "title": "什麼是互聯網?",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "3. 好！",
+            "md": "<span style=\"color:#00B0F0\">**3.**</span> 好！"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A black text on a checkered background Description automatically generated"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網是全球範圍內電腦互相溝通的網絡系統。",
+            "md": "互聯網是全球範圍內<span style=\"color:#FFCE2B\"><u>電腦互相溝通</u></span>的網絡系統。"
+          },
+          {
+            "level": 0,
+            "text": "當你用電腦、手機或平板電腦（這些都是「電腦設備」）在網上觀看影片、玩遊戲或傳送訊息時，世界某處總有一部電腦正與你的設備溝通、傳送資料。",
+            "md": "當你用電腦、手機或平板電腦（這些都是「電腦設備」）在網上觀看影片、玩遊戲或傳送訊息時，世界某處總有一部電腦正與你的設備溝通、傳送資料。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 向Youtube的電腦發出「請求」 (request)",
+            "md": "<span style=\"color:#00B0F0\">**2.**</span> 向Youtube的電腦發出<span style=\"color:#276F8B\">「請求」 (request)</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "4. 向我的電腦傳輸“回應” (response)",
+            "md": "<span style=\"color:#00B0F0\">**4.**</span> 向我的電腦傳輸<span style=\"color:#276F8B\">“回應” (response)</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Presentation with media with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Binary with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1. 我想看",
+            "md": "<span style=\"color:#00B0F0\">**1.**</span> 我想看"
+          },
+          {
+            "level": 0,
+            "text": "這部影片",
+            "md": "這部影片"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      }
+    ],
+    "speaker_notes": "Add one two three four to the arrows as animation cannot be played – the file will be turned into pdf when sent to lecturer✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 13,
+    "hidden": true,
+    "title": "什麼是互聯網?",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "全球有很多“互聯網服務“，單是網站就有2億個。 互聯網用戶就有40到50億人。",
+            "md": "全球有很多“互聯網服務“，單是網站就有2億個。 互聯網用戶就有40到50億人。"
+          },
+          {
+            "level": 0,
+            "text": "要把這40-50億用戶的電腦逐一用「點對點」的方式連結到每個互聯網服務服務是不可行的",
+            "md": "要把這40-50億用戶的電腦逐一用「點對點」的方式連結到每個互聯網服務服務是不可行的"
+          },
+          {
+            "level": 0,
+            "text": "當A同學要發電郵給B同學，用「點對點」方法連結更加不可能，因為全球用戶達到40-50億人",
+            "md": "當A同學要發電郵給B同學，用「點對點」方法連結更加不可能，因為全球用戶達到40-50億人"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Dizzy face outline with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 14,
+    "hidden": false,
+    "title": "什麼是互聯網?",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "全球的互聯網服務數之不盡——單是活躍網站便有約 2 億個，互聯網用戶更達 60 億人。",
+            "md": "全球的互聯網服務數之不盡——單是活躍網站便有約 **2 億個**，互聯網用戶更達 **60 億人**。"
+          },
+          {
+            "level": 1,
+            "text": "若要以「點對點」的方式，A 同學要發電郵給 B 同學，先得在兩人之間拉一條專線",
+            "md": "若要以「點對點」的方式，A 同學要發電郵給 B 同學，先得在兩人之間拉一條專線"
+          },
+          {
+            "level": 1,
+            "text": "每部電腦須有 60 億個插口，是不可行的",
+            "md": "每部電腦須有 60 億個插口，**是不可行的**"
+          },
+          {
+            "level": 0,
+            "text": "點對點行不通，於是有了互聯網。",
+            "md": "<u>點對點行不通，於是有了互聯網</u>。"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Dizzy face outline with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "Server with solid fill"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 15,
+    "hidden": true,
+    "title": "局 域 網 Local Area Network (LAN）",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "局域網LAN廣泛存在於辦公場所、學校及家居裡",
+            "md": "局域網LAN廣泛存在於辦公場所、學校及家居裡"
+          },
+          {
+            "level": 0,
+            "text": "先把一個「小區」的電腦連起來",
+            "md": "先把一個「小區」的電腦連起來"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 16,
+    "hidden": true,
+    "title": "廣 域 網 Wide Area Network (WAN）",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "WAN",
+            "md": "<span style=\"color:#92D050\">**WAN**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "WAN再把不同的LAN連起來",
+            "md": "WAN再把不同的LAN連起來"
+          },
+          {
+            "level": 0,
+            "text": "WAN可覆蓋大片地理面積，例如城市甚至乎國家",
+            "md": "WAN可覆蓋大片地理面積，例如城市甚至乎國家"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 17,
+    "hidden": true,
+    "title": "互聯網 (Internet)",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "當這些WAN再連在一起，就形成了這個龐大的互聯網",
+            "md": "當這些WAN再連在一起，就形成了這個龐大的互聯網"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 18,
+    "hidden": true,
+    "title": "互聯網 (Internet)",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "在這龐大的網路系統中，A電腦如何能夠把資訊找到正確的路徑，準確地送到B電腦？",
+            "md": "在這龐大的網路系統中，A電腦如何能夠把資訊<u>**找到正確的路徑**</u>，<u>**準確地送到**</u>B電腦？"
+          },
+          {
+            "level": 0,
+            "text": "這就需要有：",
+            "md": "這就需要有："
+          },
+          {
+            "level": 3,
+            "text": "一個全球公認的協議/規則的「交通守則」",
+            "md": "一個<u>**全球公認**</u>的協議/規則的「交通守則」"
+          },
+          {
+            "level": 3,
+            "text": "「地址制式」",
+            "md": "「地址制式」"
+          },
+          {
+            "level": 0,
+            "text": "我們稱之為TCP/IP",
+            "md": "我們稱之為<span style=\"color:#3494BA\">**TCP/IP**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer male with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "同學B",
+            "md": "<span style=\"color:#00B050\">同學B</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "同學A",
+            "md": "<span style=\"color:#3494BA\">同學A</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A red sign with white text Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Binary System",
+            "md": "[<span style=\"color:#7030A0\">**Binary System**</span>](https://www.youtube.com/watch?v=Nv7uFkk3CYs&list=PLWfVcpjMQd0OkWOzowkxow0i9h87C-5vW&index=2)"
+          },
+          {
+            "level": 0,
+            "text": "& TCP/IP",
+            "md": "[<span style=\"color:#7030A0\">**& TCP/IP**</span>](https://www.youtube.com/watch?v=Nv7uFkk3CYs&list=PLWfVcpjMQd0OkWOzowkxow0i9h87C-5vW&index=2)"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 19,
+    "hidden": false,
+    "title": "互聯網無邊無際",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Visualization of Internet routing paths"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "視覺化效果",
+            "md": "**視覺化效果**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 20,
+    "hidden": false,
+    "title": "互聯網 (Internet)",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "圖片"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "在這龐大的網路系統中，A電腦如何能夠把資訊找到正確的路徑，準確地送到B電腦？",
+            "md": "在這龐大的網路系統中，A電腦如何能夠把資訊<u>**找到正確的路徑**</u>，<u>**準確地送到**</u>B電腦？"
+          },
+          {
+            "level": 0,
+            "text": "這就需要有一個全球公認的：",
+            "md": "這就需要有一個<u>**全球公認**</u>的<span style=\"color:#3494BA\">**：**</span>"
+          },
+          {
+            "level": 3,
+            "text": "協議/規則的「交通守則」",
+            "md": "協議/規則的「交通守則」"
+          },
+          {
+            "level": 3,
+            "text": "地址制式----「家居地址」",
+            "md": "地址制式----「家居地址」"
+          },
+          {
+            "level": 3,
+            "text": "我們稱為TCP/IP",
+            "md": "我們稱為<span style=\"color:#3494BA\">**TCP/IP**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer male with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "同學B",
+            "md": "<span style=\"color:#00B050\">同學B</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "image",
+        "text": "A red sign with white text Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "同學A",
+            "md": "<span style=\"color:#3494BA\">同學A</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "TCP/IP 由2:06開始",
+            "md": "[<span style=\"color:#7030A0\">**TCP/IP**</span>](https://youtu.be/Nv7uFkk3CYs?si=YE7r0lLIm9OW8jRk&t=125) <span style=\"color:#7030A0\">**由2:06開始**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Won't mention LAN WAN (in previous slides we had LAN and WAN, so made sense to have diagrams of LAN and WAN thru which the red route goes thru) Tell that by 2026 there will xx of computers in the internet, communication passes thru a lot of networks, from A to B needs a route. Do away the pop up box at bottom right✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 21,
+    "hidden": false,
+    "title": "雲 在圖示中常作為代表互聯網的符號",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "OK！",
+            "md": "OK！"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "客戶端服務器(client-server) 架構表示",
+            "md": "客戶端服務器(client-server) 架構表示"
+          },
+          {
+            "level": 0,
+            "text": "雲符號寓意客戶端和服務器之間有著許多中間節點",
+            "md": "雲符號寓意客戶端和服務器之間<u>有著許多中間節點</u>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A black text on a checkered background Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "我想看",
+            "md": "我想看"
+          },
+          {
+            "level": 0,
+            "text": "這套片",
+            "md": "這套片"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "(客戶端)",
+            "md": "(客戶端)"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Programmer female with solid fill"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "(服務器 or 伺服器)",
+            "md": "(服務器 or <br><span style=\"color:#202124\">伺服器)</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 22,
+    "hidden": true,
+    "title": "互聯網的一些熱門應用",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "萬維網 World Wide Web",
+            "md": "萬維網 World Wide Web"
+          },
+          {
+            "level": 0,
+            "text": "電子郵件 Email",
+            "md": "電子郵件 Email"
+          },
+          {
+            "level": 0,
+            "text": "即時通訊 Instant Messenger",
+            "md": "即時通訊 Instant Messenger"
+          },
+          {
+            "level": 0,
+            "text": "社交網絡 Social Media",
+            "md": "社交網絡 Social Media"
+          },
+          {
+            "level": 0,
+            "text": "直播 Live Streaming",
+            "md": "直播 Live Streaming"
+          },
+          {
+            "level": 0,
+            "text": "網絡遊戲 Gaming",
+            "md": "網絡遊戲 Gaming"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Everything parents need to know about Twitch, the video game streaming site | Momaha | omaha.com"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 23,
+    "hidden": true,
+    "title": "常見遊戲體驗",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "主機遊戲",
+            "md": "**主機遊戲**"
+          },
+          {
+            "level": 0,
+            "text": "完全依賴客戶端",
+            "md": "完全依賴客戶端"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "在線遊戲",
+            "md": "**在線遊戲**"
+          },
+          {
+            "level": 0,
+            "text": "預載客戶端 + 服務器連線",
+            "md": "預載客戶端 + 服務器連線"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲遊戲",
+            "md": "**雲遊戲**"
+          },
+          {
+            "level": 0,
+            "text": "完全無需預先下載",
+            "md": "完全無需預先下載"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Video games in 2030: Will I still need a console game system? That depends"
+      },
+      {
+        "type": "image",
+        "text": "Top 10 Most Popular Online Games 2022 | Updated Ranking"
+      },
+      {
+        "type": "image",
+        "text": "Flappy Bird Games · Play Free Online Flappy Bird Games · Gamasexual.com"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 24,
+    "hidden": false,
+    "title": "互聯網 ≠ 萬維網 The Internet ≠ WWW",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "萬維網服務是互聯網上其中一個應用",
+            "md": "萬維網服務是互聯網上<u>其中一個</u>應用"
+          },
+          {
+            "level": 0,
+            "text": "也是最熱門的應用",
+            "md": "也是最熱門的應用"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 25,
+    "hidden": true,
+    "title": "萬維網 World Wide Web",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "萬維網（WWW）是互聯網上的一個訊息系統。 這個系統傳輸的文檔（File）可以包含文字、圖片、影片、音樂以及其他類型的多媒體內容",
+            "md": "萬維網（WWW）是互聯網上的一個訊息系統。 這個系統傳輸的文檔（File）可以包含文字、圖片、影片、音樂以及其他類型的多媒體內容"
+          },
+          {
+            "level": 0,
+            "text": "文檔和其他 Web 資源由",
+            "md": "文檔和其他 Web 資源由"
+          },
+          {
+            "level": 0,
+            "text": "Uniform Resource Locators （URL）標識",
+            "md": "<span style=\"color:#BF9000\">**U**</span><span style=\"color:#0070C0\">niform</span> <span style=\"color:#BF9000\">**R**</span><span style=\"color:#0070C0\">esource</span> <span style=\"color:#BF9000\">**L**</span><span style=\"color:#0070C0\">ocators</span> （<span style=\"color:#BF9000\">URL</span>）標識"
+          },
+          {
+            "level": 0,
+            "text": "統一 資源 定位符",
+            "md": "統一 資源 定位符"
+          },
+          {
+            "level": 1,
+            "text": "例如 https://www.example.com",
+            "md": "例如 https://www.example.com"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 26,
+    "hidden": false,
+    "title": "萬維網 World Wide Web",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "網頁內容",
+            "md": "<span style=\"color:#FFCE2B\">**網頁內容**</span>"
+          },
+          {
+            "level": 0,
+            "text": "(最為常用)",
+            "md": "<span style=\"color:#FFCE2B\">**(**</span><span style=\"color:#FFCE2B\"><u>**最為常用**</u></span><span style=\"color:#FFCE2B\">**)**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "應用:",
+            "md": "**應用:**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "即時影音",
+            "md": "<span style=\"color:#FFCE2B\">**即時影音**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "訊息及附件",
+            "md": "<span style=\"color:#FFCE2B\">**訊息及附件**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "影片及音樂",
+            "md": "<span style=\"color:#FFCE2B\">**影片及音樂**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "基礎設施:",
+            "md": "**基礎設施:**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "連接全球電腦",
+            "md": "<span style=\"color:#2C4C83\">**連接全球電腦**</span>"
+          },
+          {
+            "level": 0,
+            "text": "並負責傳輸",
+            "md": "<span style=\"color:#2C4C83\">**並負責傳輸**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "萬維網 （WWW） 只是互聯網上其中一個應用",
+            "md": "**萬維網** （WWW） 只是互聯網上<u>**其中一個**</u>應用"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Change it to diagram, literally a road called The Internet, then cars named \"WWW\", \"視像通話\" etc running on it✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 27,
+    "hidden": true,
+    "title": "萬維網 World Wide Web",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "用戶使用稱為 Web 瀏覽器軟件應用程序（browser）查看網頁",
+            "md": "用戶使用稱為 Web <span style=\"color:#3494BA\"><u>**瀏覽器軟件**</u></span>應用程序（browser）查看網頁"
+          },
+          {
+            "level": 0,
+            "text": "用戶點擊Hyperlink, 通過 Internet到達想探訪的網頁",
+            "md": "用戶點擊<span style=\"color:#3494BA\"><u>**Hyperlink**</u></span>, 通過 Internet到達想探訪的網頁"
+          },
+          {
+            "level": 0,
+            "text": "超鏈接",
+            "md": "<span style=\"color:#3494BA\">**超鏈接**</span>"
+          },
+          {
+            "level": 0,
+            "text": "Web網頁的文檔通過 Hyper Text Transfer Protocol (HTTP) 傳輸 超 文本 傳輸 協議",
+            "md": "Web網頁的文檔通過 <span style=\"color:#FFC000\"><u>**H**</u></span><span style=\"color:#3494BA\"><u>yper</u></span> <span style=\"color:#FFC000\"><u>**T**</u></span><span style=\"color:#3494BA\"><u>ext</u></span> <span style=\"color:#FFC000\"><u>**T**</u></span><span style=\"color:#3494BA\"><u>ransfer</u></span> <span style=\"color:#FFC000\"><u>**P**</u></span><span style=\"color:#3494BA\"><u>rotocol</u></span> <span style=\"color:#3494BA\"><u>**(**</u></span><span style=\"color:#FFC000\"><u>**HTTP**</u></span>) 傳輸<br> <span style=\"color:#3494BA\">**超 文本 傳輸 協議**</span>"
+          },
+          {
+            "level": 0,
+            "text": "Web 服務器（web server） 網頁實際存放在Web服務器上，這些服務器透過Internet對用戶提供網頁。",
+            "md": "<span style=\"color:#3494BA\"><u>**Web 服務器（web server**</u></span>） 網頁實際存放在Web服務器上，這些服務器透過Internet對用戶提供網頁。"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 28,
+    "hidden": false,
+    "title": "萬維網 World Wide Web",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "用戶使用網頁瀏覽器軟件來查看網頁",
+            "md": "用戶使用<span style=\"color:#3494BA\"><u>**網頁瀏覽器軟件**</u></span>來查看網頁"
+          },
+          {
+            "level": 0,
+            "text": "並以統一資源定位器（URL）標識；例如：https://www.google.com/",
+            "md": "並以**統一資源定位器**（URL）標識；例如：https://www.google.com/"
+          },
+          {
+            "level": 0,
+            "text": "網頁的文檔通過 Hyper Text Transfer Protocol (HTTP) 傳輸 超 文本 傳輸 協議",
+            "md": "網頁的文檔通過 <span style=\"color:#FFC000\"><u>**H**</u></span><span style=\"color:#3494BA\"><u>yper</u></span> <span style=\"color:#FFC000\"><u>**T**</u></span><span style=\"color:#3494BA\"><u>ext</u></span> <span style=\"color:#FFC000\"><u>**T**</u></span><span style=\"color:#3494BA\"><u>ransfer</u></span> <span style=\"color:#FFC000\"><u>**P**</u></span><span style=\"color:#3494BA\"><u>rotocol</u></span> <span style=\"color:#3494BA\"><u>**(**</u></span><span style=\"color:#FFC000\"><u>**HTTP**</u></span>) 傳輸<br> <span style=\"color:#3494BA\">**超 文本 傳輸 協議**</span>"
+          },
+          {
+            "level": 0,
+            "text": "HTTP與本課前方提吸到的TCP/IP皆屬於我們在瀏覽網絡時所遵循的通訊規則",
+            "md": "<span style=\"color:#FFC000\"><u>**HTTP**</u></span>與本課前方提吸到的<span style=\"color:#FFC000\"><u>**TCP/IP**</u></span>皆屬於我們在瀏覽網絡時所遵循的**通訊規則**"
+          },
+          {
+            "level": 0,
+            "text": "網頁實際存放在網頁服務器上，並透過互聯網對用戶提供網頁。",
+            "md": "網頁實際存放在<span style=\"color:#3494BA\"><u>**網頁服務器**</u></span>上，並透過**互聯網**對用戶提供網頁。"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 29,
+    "hidden": true,
+    "title": "網頁應用例子",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "超鏈接",
+            "md": "**超鏈接**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "網頁服務器",
+            "md": "網頁服務器"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "客戶端電腦",
+            "md": "客戶端電腦"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Client Computer",
+            "md": "Client Computer"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "互聯網"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "「請求」 (request)",
+            "md": "<span style=\"color:#276F8B\">「請求」 (request)</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "How to set up Google's Chrome browser the right way | PCWorld"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "通過超文本傳輸協議 (HTTP) 傳輸",
+            "md": "通過<mark style=\"background:#42413D\">超文本傳輸協議 (HTTP)</mark> 傳輸"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "“回應” (response)",
+            "md": "<span style=\"color:#276F8B\">“回應” (response)</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 30,
+    "hidden": false,
+    "title": "網頁應用概念",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "網頁服務器",
+            "md": "網頁服務器"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "客戶端電腦",
+            "md": "客戶端電腦"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Client Computer",
+            "md": "Client Computer"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "互聯網"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "「請求」 (request)",
+            "md": "<span style=\"color:#276F8B\">「請求」 (request)</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "How to set up Google's Chrome browser the right way | PCWorld"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "通過超文本傳輸協議 (HTTP) 傳輸",
+            "md": "通過<mark style=\"background:#42413D\">超文本傳輸協議 (HTTP)</mark> 傳輸"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "“回應” (response)",
+            "md": "<span style=\"color:#276F8B\">“回應” (response)</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 31,
+    "hidden": true,
+    "title": "網址 URL",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Uniform Resource Locator 統一 資源 定位符",
+            "md": "<span style=\"color:#FFC000\">**U**</span>niform <span style=\"color:#FFC000\">**R**</span>esource <span style=\"color:#FFC000\">**L**</span>ocator<br> 統一 資源 定位符"
+          },
+          {
+            "level": 0,
+            "text": "也常稱為鏈接",
+            "md": "也常稱為鏈接"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "URI syntax diagram"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 32,
+    "hidden": false,
+    "title": "課堂任務",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "改動 Yahoo.com.hk 網頁",
+            "md": "改動 Yahoo.com.hk 網頁"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Use Google Chrome Developer Tool to play with HTML element modifications, CSS style changing and JavaScript coding. (Lab 2)",
+            "md": "Use Google Chrome Developer Tool to play with HTML element modifications, CSS style changing and JavaScript coding. (Lab 2)"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 33,
+    "hidden": true,
+    "title": "互聯網商務的興起 - 1",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Hotmail (1996)",
+            "md": "<span style=\"color:#BF9000\">**Hotmail (1996)**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "在早期，互聯網的應用主要是限於“資訊”",
+            "md": "在早期，互聯網的應用主要是限於“<span style=\"color:#00B050\">**資訊**</span>”"
+          },
+          {
+            "level": 0,
+            "text": "Yahoo! 雅⻁（1994）最初是互聯網⾨戶網站",
+            "md": "Yahoo! 雅⻁（1994）最初是互聯網⾨戶網站"
+          },
+          {
+            "level": 0,
+            "text": "Google（1998）是⾸個世界級萬維網搜索引擎",
+            "md": "Google（1998）是⾸個世界級萬維網搜索引擎"
+          },
+          {
+            "level": 0,
+            "text": "在Gmail以前，Hotmail（1996）是第⼀個世界級用瀏覽器讀取的電郵服務",
+            "md": "在Gmail以前，Hotmail（1996）是第⼀個世界級用瀏覽器讀取的電郵服務"
+          },
+          {
+            "level": 0,
+            "text": "ICQ (1996)是第一個也是最大的電腦即時通訊⼯具, 不過和Whatsapp和WeChat不一樣，ICQ最初只能在電腦上運作",
+            "md": "ICQ (1996)是第一個也是最大的電腦即時通訊⼯具, 不過和Whatsapp和WeChat不一樣，ICQ最初只能在電腦上運作"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "ICQ (1996)",
+            "md": "<span style=\"color:#BF9000\">**ICQ (1996)**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 34,
+    "hidden": true,
+    "title": "互聯網商務的興起 - 2",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "之後的互聯網服務就開始有了“買賣”和“貿易”的功能，例如：",
+            "md": "之後的互聯網服務就開始有了“<span style=\"color:#00B050\">**買賣**</span>”和“<span style=\"color:#00B050\">**貿易**</span>”的功能，例如："
+          },
+          {
+            "level": 0,
+            "text": "亞⾺遜 (1995) 最初是⼀家在線實體書商店,稱之為\"B2C\"模式，因為是商業（Business)賣貨物給消費者（Consumer)，Business-to-Consumer",
+            "md": "亞⾺遜 (1995) 最初是⼀家在線實體書商店,稱之為\"B2C\"模式，因為是商業（Business)賣貨物給消費者（Consumer)，Business-to-Consumer"
+          },
+          {
+            "level": 0,
+            "text": "阿⾥巴巴(1999)起初是一個聯繫中國公司和外國企業的網站，以便中國公司可以便利的出口貨物。稱之為B2B模式, 因為買家和賣家都是Business",
+            "md": "阿⾥巴巴(1999)起初是一個聯繫中國公司和外國企業的網站，以便中國公司可以便利的出口貨物。稱之為B2B模式, 因為買家和賣家都是Business"
+          },
+          {
+            "level": 0,
+            "text": "之後也出現如eBay（1995）的拍賣網站，和今天的Carousell,都是個人用戶之間的互相買賣。這種模式稱之為C2C(Consumer to Consumer)",
+            "md": "之後也出現如eBay（1995）的拍賣網站，和今天的Carousell,都是個人用戶之間的互相買賣。這種模式稱之為C2C(Consumer to Consumer)"
+          },
+          {
+            "level": 0,
+            "text": "網上買賣、貿易多了，也產生了對網上支付服務的需求，因而誕生了Paypal (1999)，Alipay (2009)和 WeChatPay (2013)等",
+            "md": "網上<u>買賣、貿易多了，也產生了對網上支付服務的需求</u>，因而誕生了Paypal (1999)，Alipay (2009)和 WeChatPay (2013)等"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 35,
+    "hidden": true,
+    "title": "互聯網基礎設施快速增長",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "一起討論：",
+            "md": "<span style=\"color:#FFD966\">**一起討論：**</span>"
+          },
+          {
+            "level": 0,
+            "text": "同學有沒有試過一個網站堵塞？ 是什麼時候，想做怎麼事？",
+            "md": "同學有沒有試過一個網站堵塞？ 是什麼時候，想做怎麼事？"
+          },
+          {
+            "level": 0,
+            "text": "你們猜想一個網購公司什麼時候用戶量最多？",
+            "md": "你們猜想一個網購公司什麼時候用戶量最多？"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網用戶群龐大，成功的互聯網公司必須不斷投資電腦設施以滿足快速增長的用戶連接",
+            "md": "互聯網用戶群龐大，成功的互聯網公司<span style=\"color:#0070C0\"><u>**必須不斷投資電腦設施**</u></span>以<u>滿足快速增長的用戶連接</u>"
+          },
+          {
+            "level": 1,
+            "text": "想像一下雙十一購物節的人流： 要滿足大量用戶在同一時間進入網站，網購公司如淘寶需要建立大量電腦設施（如伺服器等）才會令網站不會出現「堵塞」的情況",
+            "md": "想像一下雙十一購物節的人流： 要滿足大量用戶在同一時間進入網站，網購公司如淘寶需要建立大量電腦設施（如伺服器等）才會令網站<u>**不會出現「堵塞」**</u>的情況"
+          },
+          {
+            "level": 0,
+            "text": "但是，網購公司也發現出現大量人流的時候只限於某些時間",
+            "md": "但是，網購公司也發現出現大量人流的時候<u>只限於某些時間</u>"
+          },
+          {
+            "level": 1,
+            "text": "用戶量不多的時候，他們的大量伺服器便是閒著，很浪費資源",
+            "md": "用戶量不多的時候，他們的大量伺服器便是閒著，很浪費資源"
+          },
+          {
+            "level": 0,
+            "text": "所以他們開始讓其他公司租用他們的電腦資源基礎設施，也就是雲計算的起源",
+            "md": "所以他們開始<u>**讓其他公司租用他們的電腦資源基礎設施，**</u><span style=\"color:#0070C0\"><u>**也就是雲計算的起源**</u></span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 36,
+    "hidden": false,
+    "title": "雲計算的起源",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網用戶量龐大，公司需持續增加伺服器以應付流量",
+            "md": "互聯網用戶量龐大，公司需持續增加伺服器以應付流量"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Isometric 3D flatshaded vector illustration, clean and simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no gradients — use only simple flatcolour 3D shading with subtle solidcolour side faces no photorealistic lighting, no gradients, no trademarked logos or brand marks. Scene: three isometric 3D panels arranged left to right, connected by two thin 3D arrows. Above the whole scene, a small floating text label reads \"淘寶\" in a plain generic sansserif style text only, no logo design, no brand colours associated with the actual company. Panel 1 leftmost: five identical lowpoly 3D serverrack models standing side by side, all rendered in teal 2A9D8F, each with small glowing dot lights indicating active/fullload state, with a small 3D upwardarrow shape above them. Label beneath: \"購物節高峰\". A thin teal 3D arrow points from Panel 1 to Panel 2. Panel 2 middle: the same five 3D serverrack models, now rendered in light grey to indicate idle state, with small floating \"Z\" shapes above them at varying heights. Label beneath: \"離峰閒置\". A thin teal 3D arrow points from Panel 2 to Panel 3. Panel 3 rightmost: the same five 3D serverrack models, with two or three restored to teal active/rented, connected via thin 3D lines rising to three small lowpoly building models above them, each building in deep navy flatshaded colour, representing external customers. Label beneath: \"出租他人\", with a smaller secondary label beneath it reading \"雲端服務起源\". All text must be in Traditional Chinese 繁體中文 except the single brandname label \"淘寶\", formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style, bold and clear character strokes for the three main labels. No Simplified Chinese, no English, no Japanese text anywhere, no stylised brand logos or trademark symbols — the brand name must appear only as plain text, not as an official logo mark. Icons and models: simple lowpoly isometric 3D shapes, minimal detail, consistent serverrack geometry across all three panels, one small stateindicator per panel. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for active servers, arrows, and connecting lines; idle servers in Panel 2 rendered in light grey; side faces of 3D shapes in a slightly darker flat teal or grey to indicate depth no gradients, no realistic lighting. Composition: generous white space, evenly spaced, perfectly aligned in isometric grid, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      },
+      {
+        "type": "image",
+        "text": "Taobao淘寶- YouTube"
+      },
+      {
+        "type": "image",
+        "text": "Amazon Prime Day: Everything You Need To Know"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1. 例子：雙十一購物節期間，網購公司（如淘寶）需大量伺服器，避免網站堵塞",
+            "md": "<span style=\"color:#FFCE2B\">**1. 例子**</span>：雙十一購物節期間，網購公司（如淘寶）需**大量伺服器**，避免網站堵塞"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "3. 解決方法：",
+            "md": "<span style=\"color:#FFCE2B\">**3. 解決方法**</span>："
+          },
+          {
+            "level": 0,
+            "text": "公司將閒置的電腦資源",
+            "md": "公司<u>將</u><u>**閒置**</u><u>的電腦資源</u>"
+          },
+          {
+            "level": 0,
+            "text": "租給其他企業使用",
+            "md": "<u>租給其他企業使用</u>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 問題：非高峰時段，",
+            "md": "<span style=\"color:#FFCE2B\">**2. 問題**</span>：**非高峰時段**，"
+          },
+          {
+            "level": 0,
+            "text": "大量伺服器閒置，浪費資源",
+            "md": "<u>大量伺服器閒置，浪費資源</u>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "這種「租用電腦資源」的做法，就是雲計算的起源",
+            "md": "這種「租用電腦資源」的做法，就是**雲計算的起源**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Taobao – originally (idle), full capacity when peak day; Taobao – rent out extra to othersf, that is cc service ✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 37,
+    "hidden": false,
+    "title": "什麼是雲計算",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲計算是一種透過互聯網提供電腦資源的技術。",
+            "md": "雲計算是一種透過**互聯網**<u>提供電腦資源的技術</u>。"
+          },
+          {
+            "level": 0,
+            "text": "用家可向雲計算服務供應商租用所需資源，並按需要調整用量。",
+            "md": "用家可向雲計算服務供應商**租用所需資源**，並按需要調整用量。"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "伺服器",
+            "md": "**伺服器**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "儲存設備",
+            "md": "**儲存設備**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "數據庫",
+            "md": "**數據庫**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "應用程式",
+            "md": "**應用程式**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "**互聯網**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "**互聯網**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "**互聯網**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "互聯網",
+            "md": "**互聯網**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "電腦用戶",
+            "md": "電腦用戶"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "智能手機用戶",
+            "md": "智能手機用戶"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "平板電腦用戶",
+            "md": "平板電腦用戶"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "學校",
+            "md": "**學校**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 38,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1. 一間餐廳就如雲計算服務使用者",
+            "md": "1\\. 一間**餐廳**就如<u>雲計算服務使用者</u>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "呢個情況，就好似一間餐廳要自己買發電機爲自己供電。\n現實中，當然冇一間餐廳會咁做。\n<CLICK>\n有電力公司專門起發電廠、維護電網，間餐廳就插個插頭通過電網攞電力。 several pages so as to retain as much the animation effect (ie 1st slide the restaurant, 2nd slide has one power generator added, 3rd slide has CLP Power added, 4th slide has the lightning strikes added. Reverse the order of the words – mention the restaurant focus on its own biz and don't want power generator themselves, then 2nd bullet point mention get elec by plugging into the socket✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 39,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 餐廳要運作必須要有供電設備，你起初嘗試自行裝設發電機以減少支出，但令到餐廳花了大量資源維護與操作發電機，本末倒置",
+            "md": "2\\. 餐廳要運作必須要有供電設備，你起初嘗試<u>自行裝設發電機</u>以減少支出，但令到餐廳<u>花了大量資源維護與操作發電機</u>，**本末倒置**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "呢個情況，就好似一間餐廳要自己買發電機爲自己供電。\n現實中，當然冇一間餐廳會咁做。\n<CLICK>\n有電力公司專門起發電廠、維護電網，間餐廳就插個插頭通過電網攞電力。 several pages so as to retain as much the animation effect (ie 1st slide the restaurant, 2nd slide has one power generator added, 3rd slide has CLP Power added, 4th slide has the lightning strikes added. Reverse the order of the words – mention the restaurant focus on its own biz and don't want power generator themselves, then 2nd bullet point mention get elec by plugging into the socket✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 40,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "3. 此時你發現了中電（供應商）提供供電服務",
+            "md": "**3. 此時你發現了中電（供應商）提供供電服務**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "呢個情況，就好似一間餐廳要自己買發電機爲自己供電。\n現實中，當然冇一間餐廳會咁做。\n<CLICK>\n有電力公司專門起發電廠、維護電網，間餐廳就插個插頭通過電網攞電力。 several pages so as to retain as much the animation effect (ie 1st slide the restaurant, 2nd slide has one power generator added, 3rd slide has CLP Power added, 4th slide has the lightning strikes added. Reverse the order of the words – mention the restaurant focus on its own biz and don't want power generator themselves, then 2nd bullet point mention get elec by plugging into the socket✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 41,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "4. 以後餐廳只需專注於自身業務，不自行裝設發電機，交給電力公司專責興建發電廠、維護電網；",
+            "md": "**4. 以後餐廳只需專注於自身業務，不自行裝設發電機，交給電力公司專責興建發電廠、維護電網；**"
+          },
+          {
+            "level": 0,
+            "text": "餐廳只須插上插頭，便可從電網取電。",
+            "md": "**餐廳只須插上插頭，便可從電網取電。**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Electricity 電力",
+            "md": "<span style=\"color:#FFC000\">**Electricity 電力**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "呢個情況，就好似一間餐廳要自己買發電機爲自己供電。\n現實中，當然冇一間餐廳會咁做。\n<CLICK>\n有電力公司專門起發電廠、維護電網，間餐廳就插個插頭通過電網攞電力。 several pages so as to retain as much the animation effect (ie 1st slide the restaurant, 2nd slide has one power generator added, 3rd slide has CLP Power added, 4th slide has the lightning strikes added. Reverse the order of the words – mention the restaurant focus on its own biz and don't want power generator themselves, then 2nd bullet point mention get elec by plugging into the socket✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 42,
+    "hidden": true,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "電力公司專責興建發電廠、維護電網；",
+            "md": "**電力公司專責興建發電廠、維護電網；**"
+          },
+          {
+            "level": 0,
+            "text": "餐廳只須插上插頭，便可從電網取電。",
+            "md": "**餐廳只須插上插頭，便可從電網取電。**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 用户就像一間餐廳要自行購置發電機供電。 現實中，當然沒有餐廳會這樣做。",
+            "md": "**2. 用户就像一間餐廳要自行購置發電機供電。**<br>**現實中，當然沒有餐廳會這樣做。**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Electricity 電力",
+            "md": "<span style=\"color:#FFC000\">**Electricity 電力**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "呢個情況，就好似一間餐廳要自己買發電機爲自己供電。\n現實中，當然冇一間餐廳會咁做。\n<CLICK>\n有電力公司專門起發電廠、維護電網，間餐廳就插個插頭通過電網攞電力。 several pages so as to retain as much the animation effect (ie 1st slide the restaurant, 2nd slide has one power generator added, 3rd slide has CLP Power added, 4th slide has the lightning strikes added. Reverse the order of the words – mention the restaurant focus on its own biz and don't want power generator themselves, then 2nd bullet point mention get elec by plugging into the socket"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 43,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "5. 今日許多企業，處境正如當年那間餐廳——只是他們需要的並非電力，而是算力",
+            "md": "**5. 今日許多企業，處境正如當年那間餐廳——只是他們需要的並非電力，而是算力**"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Google Classroom Logo Stock Illustrations – 40 Google ..."
+      },
+      {
+        "type": "image",
+        "text": "Netflix Logo (Black Background) Vector Download - iconLogoVector"
+      },
+      {
+        "type": "image",
+        "text": "Canva – Download og installer i Windows | Microsoft Store"
+      },
+      {
+        "type": "image",
+        "text": "Zoom Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "Instagram Logo Vector"
+      },
+      {
+        "type": "image",
+        "text": "How to use Douyin (TikTok China) in 2023? - STAiiRS"
+      },
+      {
+        "type": "image",
+        "text": "HSBC Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "File:HK MTR logo.svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "File:PCCW (Hong Kong ICT company) logo (fair use).svg - Wikipedia"
+      }
+    ],
+    "speaker_notes": "雲端運算，正是數碼世界的電力公司。\n阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備。\n<CLICK>\n要用伺服器的公司, 就通過互聯網攞電腦資源。\n伊 D 就係我地而家聼新聞成日都會聽到的“算力”。\n雲計算唔係一啲遙遠嘅技術，佢其實就係支撐住我哋整個數碼世界嘅地基。\n而家幾乎所有大公司都用雲計算，就連中小企都有 75% 喺度用緊。\n而識得雲計算嘅人，係數碼世界裡面最被需求、人工最高嘅技術人才之一。 The storyline: ​tell that the companies wanna do their own biz afterall, they need computing power, then there are cloud computing giants to serve them. Do the graphics in this order (this is set by Ken). Also do it slide by slide so that when click to next slide, the 'visual' will look similar to have animation being played✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 44,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "6. 算力的供應商，便是阿里雲（Alibaba Cloud）、亞馬遜的 AWS 與微軟的 Azure。他們興建的不是發電廠，而是遍佈全球的數據中心",
+            "md": "**6. 算力的供應商，便是阿里雲（Alibaba Cloud）、亞馬遜的 AWS 與微軟的 Azure。他們興建的不是發電廠，而是遍佈全球的數據中心**"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Google Classroom Logo Stock Illustrations – 40 Google ..."
+      },
+      {
+        "type": "image",
+        "text": "Netflix Logo (Black Background) Vector Download - iconLogoVector"
+      },
+      {
+        "type": "image",
+        "text": "Canva – Download og installer i Windows | Microsoft Store"
+      },
+      {
+        "type": "image",
+        "text": "Zoom Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "Instagram Logo Vector"
+      },
+      {
+        "type": "image",
+        "text": "How to use Douyin (TikTok China) in 2023? - STAiiRS"
+      },
+      {
+        "type": "image",
+        "text": "HSBC Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "File:HK MTR logo.svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "File:PCCW (Hong Kong ICT company) logo (fair use).svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "How Alibaba Cloud Engineered China's Digital Explosion | by ..."
+      },
+      {
+        "type": "image",
+        "text": "Amazon Web Services Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "azure-cloud-logo - Wallit"
+      }
+    ],
+    "speaker_notes": "雲端運算，正是數碼世界的電力公司。\n阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備。\n<CLICK>\n要用伺服器的公司, 就通過互聯網攞電腦資源。\n伊 D 就係我地而家聼新聞成日都會聽到的“算力”。\n雲計算唔係一啲遙遠嘅技術，佢其實就係支撐住我哋整個數碼世界嘅地基。\n而家幾乎所有大公司都用雲計算，就連中小企都有 75% 喺度用緊。\n而識得雲計算嘅人，係數碼世界裡面最被需求、人工最高嘅技術人才之一。 The storyline: ​tell that the companies wanna do their own biz afterall, they need computing power, then there are cloud computing giants to serve them. Do the graphics in this order (this is set by Ken). Also do it slide by slide so that when click to next slide, the 'visual' will look similar to have animation being played✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 45,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "7. 供應商既已備好算力，企業便毋須自行購置伺服器、自設機房；只要連上互聯網，即可取用供應商的算力來運行業務，用多少付多少——一如插上插頭便有電。",
+            "md": "**7. 供應商既已備好算力，企業便毋須自行購置伺服器、自設機房；只要連上互聯網，即可取用供應商的算力來運行業務，用多少付多少——一如插上插頭便有電。**"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Google Classroom Logo Stock Illustrations – 40 Google ..."
+      },
+      {
+        "type": "image",
+        "text": "Netflix Logo (Black Background) Vector Download - iconLogoVector"
+      },
+      {
+        "type": "image",
+        "text": "Canva – Download og installer i Windows | Microsoft Store"
+      },
+      {
+        "type": "image",
+        "text": "Zoom Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "Instagram Logo Vector"
+      },
+      {
+        "type": "image",
+        "text": "How to use Douyin (TikTok China) in 2023? - STAiiRS"
+      },
+      {
+        "type": "image",
+        "text": "HSBC Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "File:HK MTR logo.svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "File:PCCW (Hong Kong ICT company) logo (fair use).svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "How Alibaba Cloud Engineered China's Digital Explosion | by ..."
+      },
+      {
+        "type": "image",
+        "text": "Amazon Web Services Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "azure-cloud-logo - Wallit"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Compute 算力",
+            "md": "<span style=\"color:#FFC000\">**Compute 算力**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "雲端運算，正是數碼世界的電力公司。\n阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備。\n<CLICK>\n要用伺服器的公司, 就通過互聯網攞電腦資源。\n伊 D 就係我地而家聼新聞成日都會聽到的“算力”。\n雲計算唔係一啲遙遠嘅技術，佢其實就係支撐住我哋整個數碼世界嘅地基。\n而家幾乎所有大公司都用雲計算，就連中小企都有 75% 喺度用緊。\n而識得雲計算嘅人，係數碼世界裡面最被需求、人工最高嘅技術人才之一。 The storyline: ​tell that the companies wanna do their own biz afterall, they need computing power, then there are cloud computing giants to serve them. Do the graphics in this order (this is set by Ken). Also do it slide by slide so that when click to next slide, the 'visual' will look similar to have animation being played✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 46,
+    "hidden": false,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "什麼是雲計算",
+            "md": "**什麼是雲計算**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "8. 電力如是，算力亦如是：昔日自行發電，今日插頭取電；昔日自購伺服器，今日連線取算力。 這就是雲計算。",
+            "md": "**8. 電力如是，算力亦如是：昔日自行發電，今日插頭取電；昔日自購伺服器，今日連線取算力。 這就是**<span style=\"color:#FFCE2B\">**雲計算**</span>**。**"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Google Classroom Logo Stock Illustrations – 40 Google ..."
+      },
+      {
+        "type": "image",
+        "text": "Instagram Logo Vector"
+      },
+      {
+        "type": "image",
+        "text": "Netflix Logo (Black Background) Vector Download - iconLogoVector"
+      },
+      {
+        "type": "image",
+        "text": "Canva – Download og installer i Windows | Microsoft Store"
+      },
+      {
+        "type": "image",
+        "text": "How to use Douyin (TikTok China) in 2023? - STAiiRS"
+      },
+      {
+        "type": "image",
+        "text": "How Alibaba Cloud Engineered China's Digital Explosion | by ..."
+      },
+      {
+        "type": "image",
+        "text": "Amazon Web Services Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "azure-cloud-logo - Wallit"
+      },
+      {
+        "type": "image",
+        "text": "File:HK MTR logo.svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "File:PCCW (Hong Kong ICT company) logo (fair use).svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "Zoom Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "HSBC Logo, symbol, meaning, history, PNG, brand"
+      }
+    ],
+    "speaker_notes": "雲端運算，正是數碼世界的電力公司。\n阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備。\n<CLICK>\n要用伺服器的公司, 就通過互聯網攞電腦資源。\n伊 D 就係我地而家聼新聞成日都會聽到的“算力”。\n雲計算唔係一啲遙遠嘅技術，佢其實就係支撐住我哋整個數碼世界嘅地基。\n而家幾乎所有大公司都用雲計算，就連中小企都有 75% 喺度用緊。\n而識得雲計算嘅人，係數碼世界裡面最被需求、人工最高嘅技術人才之一。 The storyline: ​tell that the companies wanna do their own biz afterall, they need computing power, then there are cloud computing giants to serve them. Do the graphics in this order (this is set by Ken). Also do it slide by slide so that when click to next slide, the 'visual' will look similar to have animation being played✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 47,
+    "hidden": true,
+    "title": "",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲端運算，正是數碼世界的電力公司。",
+            "md": "**雲端運算，正是數碼世界的電力公司。**"
+          },
+          {
+            "level": 0,
+            "text": "阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備，提供算力給用户。",
+            "md": "**阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備，提供算力給用户。**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Compute 算力",
+            "md": "<span style=\"color:#FFC000\">**Compute 算力**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Google Classroom Logo Stock Illustrations – 40 Google ..."
+      },
+      {
+        "type": "image",
+        "text": "Netflix Logo (Black Background) Vector Download - iconLogoVector"
+      },
+      {
+        "type": "image",
+        "text": "Canva – Download og installer i Windows | Microsoft Store"
+      },
+      {
+        "type": "image",
+        "text": "Zoom Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "Instagram Logo Vector"
+      },
+      {
+        "type": "image",
+        "text": "How to use Douyin (TikTok China) in 2023? - STAiiRS"
+      },
+      {
+        "type": "image",
+        "text": "HSBC Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "File:HK MTR logo.svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "File:PCCW (Hong Kong ICT company) logo (fair use).svg - Wikipedia"
+      },
+      {
+        "type": "image",
+        "text": "How Alibaba Cloud Engineered China's Digital Explosion | by ..."
+      },
+      {
+        "type": "image",
+        "text": "Amazon Web Services Logo, symbol, meaning, history, PNG, brand"
+      },
+      {
+        "type": "image",
+        "text": "azure-cloud-logo - Wallit"
+      }
+    ],
+    "speaker_notes": "雲端運算，正是數碼世界的電力公司。\n阿里巴巴的阿里雲、亞馬遜的 AWS、微軟的 Azure 等科技巨頭，已為全世界建成最先進的「數碼發電廠」——當中設有最頂尖的伺服器與最強的網絡設備。\n<CLICK>\n要用伺服器的公司, 就通過互聯網攞電腦資源。\n伊 D 就係我地而家聼新聞成日都會聽到的“算力”。\n雲計算唔係一啲遙遠嘅技術，佢其實就係支撐住我哋整個數碼世界嘅地基。\n而家幾乎所有大公司都用雲計算，就連中小企都有 75% 喺度用緊。\n而識得雲計算嘅人，係數碼世界裡面最被需求、人工最高嘅技術人才之一。 The storyline: ​tell that the companies wanna do their own biz afterall, they need computing power, then there are cloud computing giants to serve them. Do the graphics in this order (this is set by Ken). Also do it slide by slide so that when click to next slide, the 'visual' will look similar to have animation being played"
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 48,
+    "hidden": true,
+    "title": "雲計算可輕鬆擴展",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Great Questions on Scalability – {Dotnet}.Share(knowledge)"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "當流量較低時，1台服務器就足夠了",
+            "md": "當流量較低時，1台服務器就足夠了"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "在季節性高峰流量期間，更多的服務器臨時加入以處理短時間極端流量",
+            "md": "在季節性高峰流量期間，更多的服務器臨時加入以處理短時間極端流量"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "當流量開始增加時，額外的服務器加入以分擔工作負載",
+            "md": "當流量開始增加時，額外的服務器加入以分擔工作負載"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 49,
+    "hidden": true,
+    "title": "硬件和軟件升級 一直是一個巨大的痛苦",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "升級時無可避免的服務中斷",
+            "md": "升級時無可避免的服務中斷"
+          },
+          {
+            "level": 0,
+            "text": "硬件版本兼容問題",
+            "md": "硬件版本兼容問題"
+          },
+          {
+            "level": 0,
+            "text": "軟件版本兼容問題",
+            "md": "軟件版本兼容問題"
+          },
+          {
+            "level": 0,
+            "text": "安全問題",
+            "md": "安全問題"
+          },
+          {
+            "level": 0,
+            "text": "硬件生命週期短",
+            "md": "硬件生命週期短"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 50,
+    "hidden": true,
+    "title": "雲計算的優勢",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "您不必擁有電腦資源設備",
+            "md": "您不必擁有電腦資源設備"
+          },
+          {
+            "level": 0,
+            "text": "租用形式",
+            "md": "租用形式"
+          },
+          {
+            "level": 0,
+            "text": "即用即付",
+            "md": "即用即付"
+          },
+          {
+            "level": 0,
+            "text": "你可以隨時停掉雲服務器",
+            "md": "你可以隨時停掉雲服務器"
+          },
+          {
+            "level": 0,
+            "text": "您甚至可以只租用一天的服務器",
+            "md": "您甚至可以只租用一天的服務器"
+          },
+          {
+            "level": 0,
+            "text": "您可以輕鬆地擴大和縮小雲服務器規模以滿足您的業務需求的變化",
+            "md": "您可以輕鬆地擴大和縮小雲服務器規模以滿足您的業務需求的變化"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 51,
+    "hidden": false,
+    "title": "雲計算的優勢",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Create a simple, clean conceptual illustration for a course slide. Flat vector illustration, minimalist, 16:9 landscape. BACKGROUND: pure white FFFFFF, completely plain — no texture, no pattern, no frame, no shadow, no coloured background panels. TEXT: only one short phrase, in Traditional Chinese 繁體中文, formal written style. No Simplified Chinese, no English, no Japanese. The phrase is:「雲計算的優勢」 Layout: the phrase placed at the centreleft, in bold navy type. To its right, one large cloud outline icon; from the cloud, three thin lines extend outward to three small simple line icons arranged in an arc: a coin cost a power button flexibility two arrows pointing outward and inward scalability No labels on these three icons — icons only. Style: flat design, thin 2px line icons, generous white space, no gradients, no 3D, no clutter, balanced composition. Text colour deep navy 1F3A5F. Single accent colour teal 2A9D8F for the cloud, lines and icons. Sansserif Traditional Chinese typeface Noto Sans TC style, clear and correct character strokes. Textbookquality, highly legible when projected in a classroom."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "不必擁有電腦資源設備",
+            "md": "不必擁有電腦資源設備"
+          },
+          {
+            "level": 0,
+            "text": "可隨時停掉服務器",
+            "md": "可隨時停掉服務器"
+          },
+          {
+            "level": 0,
+            "text": "短租彈性— 最短租一天",
+            "md": "短租彈性— 最短租一天"
+          },
+          {
+            "level": 0,
+            "text": "彈性伸縮— 依業務變化擴大或縮小",
+            "md": "彈性伸縮— 依業務變化擴大或縮小"
+          },
+          {
+            "level": 0,
+            "text": "按用量付費（Pay-as-you-go）— 租用、即用即付",
+            "md": "按用量付費（Pay-as-you-go）— 租用、即用即付"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 52,
+    "hidden": false,
+    "title": "體驗：網站時光機",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "https://archive.org/web/",
+            "md": "[<span style=\"color:#7030A0\">https://archive.org/web/</span>](https://archive.org/web/)"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "體驗這課題提過的網站過去的模樣 (Lab 1)",
+            "md": "體驗這課題提過的網站過去的模樣 (Lab 1)"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-01-NL01-WhatIsCloudComputing.pptx",
+    "slide_number": 53,
+    "hidden": false,
+    "title": "討論",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "你最喜歡的互聯網應用是什麼？",
+            "md": "你最喜歡的互聯網應用是什麼？"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 1,
+    "hidden": true,
+    "title": "雲計算入門",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 雲計算特質",
+            "md": "2\\. 雲計算特質"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Ver：2025年 2月",
+            "md": "**Ver：2025年 2月**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 2,
+    "hidden": false,
+    "title": "雲計算入門",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "2. 雲計算的優勢",
+            "md": "**2. 雲計算的優勢**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Ver：2026年 9月",
+            "md": "**Ver：2026年 9月**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Again, change the color of the cover page✅"
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 3,
+    "hidden": true,
+    "title": "今日課題",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "為什麼選擇雲計算？",
+            "md": "為什麼選擇雲計算？"
+          },
+          {
+            "level": 0,
+            "text": "網絡管理的挑戰",
+            "md": "網絡管理的挑戰"
+          },
+          {
+            "level": 0,
+            "text": "硬件管理的挑戰",
+            "md": "硬件管理的挑戰"
+          },
+          {
+            "level": 0,
+            "text": "軟件管理的挑戰",
+            "md": "軟件管理的挑戰"
+          },
+          {
+            "level": 0,
+            "text": "流行的雲應用",
+            "md": "流行的雲應用"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "動⼿操作",
+            "md": "<span style=\"color:#42413C\">**動⼿操作**</span>"
+          },
+          {
+            "level": 1,
+            "text": "認識Ping指令",
+            "md": "認識Ping指令"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 4,
+    "hidden": false,
+    "title": "今日課題",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "繼上課討論計算的基本定義後，讓我們探討你的公司為何要使用雲計算，而非自行建置伺服器。",
+            "md": "繼上課討論計算的基本定義後，讓我們探討**你的公司為何要使用**<span style=\"color:#FFCE2B\">**雲計算**</span>，而<u>非自行建置伺服器</u>。"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 5,
+    "hidden": false,
+    "title": "今日課題",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "傳統自架伺服器的挑戰",
+            "md": "傳統自架伺服器的挑戰"
+          },
+          {
+            "level": 1,
+            "text": "硬件管理的挑戰",
+            "md": "<span style=\"color:#FFCE2B\">**硬件**</span>管理的挑戰"
+          },
+          {
+            "level": 1,
+            "text": "軟件管理的挑戰",
+            "md": "<span style=\"color:#FFCE2B\">**軟件**</span>管理的挑戰"
+          },
+          {
+            "level": 1,
+            "text": "網絡管理的挑戰",
+            "md": "<span style=\"color:#FFCE2B\">**網絡**</span>管理的挑戰"
+          },
+          {
+            "level": 0,
+            "text": "為什麼選擇雲計算？",
+            "md": "為什麼選擇雲計算？"
+          },
+          {
+            "level": 1,
+            "text": "雲計算在硬件管理上的優勢",
+            "md": "雲計算在<span style=\"color:#FFCE2B\">**硬件**</span>管理上的優勢"
+          },
+          {
+            "level": 1,
+            "text": "雲計算在軟件管理上的優勢",
+            "md": "雲計算在<span style=\"color:#FFCE2B\">**軟件**</span>管理上的優勢"
+          },
+          {
+            "level": 1,
+            "text": "雲計算在網絡管理上的優勢",
+            "md": "雲計算在<span style=\"color:#FFCE2B\">**網絡**</span>管理上的優勢"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "動⼿操作",
+            "md": "<span style=\"color:#42413C\">**動⼿操作**</span>"
+          },
+          {
+            "level": 1,
+            "text": "地端Local vs 雲端Cloud： 影像辨識對決",
+            "md": "地端Local vs 雲端Cloud：<br>影像辨識對決"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 6,
+    "hidden": false,
+    "title": "故事背景",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "generated-image.png"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "你是一間物業管理公司種子公司的新上任總裁",
+            "md": "你是一間物業管理公司<u>種子公司</u>的新上任**總裁**"
+          },
+          {
+            "level": 0,
+            "text": "你現在需要了解公司以前在建立並擴展業務時的決策",
+            "md": "你現在需要了解公司以前在建立並擴展業務時的決策"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Make the whole lesson like the story book of that building mgt company."
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 7,
+    "hidden": true,
+    "title": "故事背景",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: hierarchical tree / organisation chart structure. A single central node at the top labeled \"總部\" with a simple building icon. Three thin connecting lines branch downward and outward to three parallel branch nodes labeled \"中環分行\", \"旺角分行\", \"沙田分行\", each paired with a small lineicon building or locationpin icon. Beneath each of the three branch nodes, three small subitems are aligned in a row, each with a thin 2px line icon and short label: \"住戶資料\" person/file icon, \"會計紀錄\" ledger/document icon, \"維修申請\" wrench/repair icon. The three branches should be evenly spaced and visually symmetrical, so the subitems appear three times once under each branch with identical icon style for consistency. All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for connecting lines and icon strokes, since this is a neutral/organisational theme. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "現在業務分行遍佈香港各區，包括中環、旺角、沙田等地",
+            "md": "現在業務<u>分行遍佈香港各區</u>，包括中環、旺角、沙田等地"
+          },
+          {
+            "level": 0,
+            "text": "每一日要處理各分行日常需處理住戶資料、會計紀錄及維修申請等事務",
+            "md": "每一日要處理各分行日常需處理<u>住戶資料、會計紀錄及維修申請等事務</u>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "Make the whole lesson like the story book of that building mgt company."
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 8,
+    "hidden": false,
+    "title": "故事背景-各分行的網絡架構",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: hubandspoke radial structure. Three branch nodes are arranged evenly around the outer area, each labeled \"中環分行\", \"旺角分行\", \"沙田分行\", and each paired with a small thinline network icon and the sublabel \"內部網絡\" directly beneath it, indicating each branch has its own independent local network. Thin connecting lines extend from each of the three branch nodes inward toward a single central hub icon a simple cloud or serverrack line icon labeled \"共享資源機制\". Inside or immediately beside the central hub, two smaller icons with labels \"檔案系統\" and \"會計系統\" represent the shared resources accessible by all branches. The connecting lines should visually suggest bidirectional linkage small arrowheads on both ends between each branch and the central hub. All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for the connecting lines, hub icon, and central hub outline, since this is a neutral/organisational infrastructure theme. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "業務分行拓展到香港各區，包括中環、旺角、沙田",
+            "md": "業務分行拓展到香港各區，包括中環、旺角、沙田"
+          },
+          {
+            "level": 0,
+            "text": "每間分行均設有自己的內部網絡（Local Network）",
+            "md": "每間分行均設有自己的**內部網絡**（Local Network）"
+          },
+          {
+            "level": 0,
+            "text": "惟部分資源需於分行之間共享，例如檔案系統及會計系統",
+            "md": "惟<u>部分資源需於分行之間共享</u>，例如檔案系統及會計系統"
+          },
+          {
+            "level": 0,
+            "text": "換言之，公司需要一套機制，讓各分行能互相存取共同資源",
+            "md": "換言之，公司需要一套機制，讓各分行能互相存取共同資源"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 9,
+    "hidden": false,
+    "title": "故事背景",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "早年種子物業管理公司決定自行架設及管理伺服器在分行之間共享資源",
+            "md": "早年種子物業管理公司決定**自行架設及管理伺服器**在分行之間共享資源"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; illustration aimed at 16yearold students as viewers — mature, stylish, intelligentlooking illustration, NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style. Scene: An adult male professional in his early thirties with short black hair, wearing a simple business shirt buttoned fully to the top collar button, trousers and flat formal shoes, kneels beside a partially assembled boxy servertower frame, carefully fitting a rectangular panel piece into place with both hands, a few simple tool shapes screwdriver, small wrench resting on the floor beside him. His expression is focused and determined, brow slightly furrowed in concentration. Standing beside him, an adult female professional in her early thirties with long black hair, wearing a simple business blouse buttoned fully to the top collar button, long trousers no skirt and flat formal shoes, holds a thin rolled abstract blueprintlike scroll under one arm while her other hand gestures toward the server frame, guiding the assembly. Her expression is confident and proactive, standing upright with a purposeful stance. A few additional modular block pieces resembling server components are neatly arranged on the floor nearby, ready to be added, conveying a sense of deliberate, handson construction rather than urgency or crisis. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition, horizontal orientation. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework and darks; single accent colour teal 2A9D8F for the server frame panels and blueprint scroll to signal a deliberate, neutral setup action; plus soft neutral greys for the tools and secondary shading. Simple, uncluttered composition, one clear focal point on the partially assembled server frame, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 10,
+    "hidden": false,
+    "title": "公司出現問題?!",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "公司選擇自行架設及管理伺服器",
+            "md": "公司選擇**自行架設及管理伺服器**"
+          },
+          {
+            "level": 0,
+            "text": "隨着業務規模擴大，將面臨多方面的營運挑戰",
+            "md": "隨着業務規模擴大，將面臨多方面的營運挑戰"
+          },
+          {
+            "level": 0,
+            "text": "以下將逐一探討三項問題",
+            "md": "以下將逐一探討**三項問題**"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; illustration aimed at 16yearold students as viewers — mature, stylish, intelligentlooking illustration, NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style. Scene: An adult male professional in his early thirties with short black hair, wearing a simple business shirt buttoned fully to the top collar button and trousers, flat formal shoes, stands beside a small architectural model of a modern office building placed on a plain pedestal. Fine cracks are spreading visibly across the model building's facade, and a small blinking warning light glows on its rooftop. He leans forward with a concerned, focused expression, one hand raised near the cracked model as if inspecting it. Beside him, an adult female professional in her early thirties with long black hair, wearing a simple business blouse buttoned fully to the top collar button and long trousers no skirt, flat formal shoes not high heels, holds a slim tabletlike device upright, its screen showing a simple analog dial gauge with a needle swinging from a neutral zone into a danger zone — abstract shapes and lines only, no readable text. Her expression is alert and analytical, eyes narrowed slightly toward the tipping needle. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition, horizontal orientation. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework and darks; single accent colour amberorange E76F51 for the warning light, cracks, and dangerzone dial marking; plus soft neutral greys for secondary shading. Simple, uncluttered composition, one clear focal point on the cracked building model, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 11,
+    "hidden": false,
+    "title": "問題一 硬件管理",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "公司建立時購買的伺服器效能跟不上業務拓展的速度",
+            "md": "公司建立時購買的伺服器效能跟不上業務拓展的速度"
+          },
+          {
+            "level": 0,
+            "text": "升級硬件以提升管理系統的效能導致：",
+            "md": "升級硬件以提升管理系統的效能導致："
+          },
+          {
+            "level": 1,
+            "text": "服務中斷",
+            "md": "**服務中斷**"
+          },
+          {
+            "level": 1,
+            "text": "新舊設備之間出現兼容問題，可能引發系統當機",
+            "md": "新舊設備之間出現兼容問題，可能引發**系統當機**"
+          },
+          {
+            "level": 1,
+            "text": "設備生命週期亦很短暫，須定期更換",
+            "md": "設備**生命週期亦很短暫**，須定期更換"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: radial structure with a central icon and three surrounding spokes. A central node with a simple thinline server/hardware icon and the label \"硬件管理\" sits in the middle. Three thin connecting lines radiate outward to three surrounding risk nodes, arranged evenly e.g. top, lowerleft, lowerright, each with its own small warningstyle thinline icon and a twopart label: Spoke 1: icon of an upward arrow with a broken/warning symbol, labeled \"效能升級\" above and \"服務中斷\" below. Spoke 2: icon of two mismatched puzzle pieces or a crash/alert symbol, labeled \"新舊兼容\" above and \"系統宕機\" below. Spoke 3: icon of a coin/money stack next to a short clock symbol, labeled \"前期投資龐大\" above and \"生命週期短暫\" below. All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — amberorange E76F51 for the connecting lines, warning icons, and central hardware icon outline, since this is a risk/warning theme. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 12,
+    "hidden": false,
+    "title": "硬件管理並非容易事",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Server Room with Salt | Server room, Server, Data center"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "一個很亂的網線管理例子",
+            "md": "一個很亂的網線管理例子"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 13,
+    "hidden": false,
+    "title": "問題二 軟件管理",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "當公司想更新伺服器軟件以使用最新的AI功能",
+            "md": "當公司想更新伺服器軟件以<u>使用最新的AI功能</u>"
+          },
+          {
+            "level": 0,
+            "text": "但各軟件之間存在複雜的依賴關係",
+            "md": "但各軟件之間存在複雜的**依賴關係**"
+          },
+          {
+            "level": 0,
+            "text": "例如：iOS作業系統升級後，應用程式亦須同步升級",
+            "md": "例如：iOS作業系統升級後，應用程式亦須同步升級"
+          },
+          {
+            "level": 0,
+            "text": "升級所帶來的後果難以預先掌握",
+            "md": "升級所帶來的**後果**<u>難以預先掌握</u>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Isometric 3D flatshaded vector illustration, clean and simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no gradients — use only simple flatcolour 3D shading with subtle solidcolour side faces no photorealistic lighting, no gradients. Layout: twonode causeandeffect flow connected by a single 3D arrow. On the left, a lowpoly 3D icon of a mobile phone with a circular refresh/upgrade symbol above its screen, labeled \"作業系統升級\" beneath it. A thick teal 3D arrow points from the phone icon toward the right, with a small label floating directly above the arrow reading \"依賴關係複雜\". On the right, a cluster of three or four small lowpoly 3D appicon blocks simple rounded squares, each with a tiny generic symbol such as a dot or line, no real app logos, arranged closely together as if linked, labeled \"應用程式同步升級\" beneath them. Thin connecting lines link the appicon blocks to each other, suggesting interdependency among them. All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere, no brand names or operatingsystem logos do not depict or label \"iOS\" or any specific brand. Icons and models: simple lowpoly isometric 3D shapes, minimal detail, generic phone and generic appblock shapes only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for the arrow, connecting lines, phone icon, and appblock icons, since this is a risk/dependency theme rendered in a neutral informative tone. Composition: generous white space, evenly spaced, perfectly aligned in isometric grid, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 14,
+    "hidden": false,
+    "title": "問題三 網絡管理",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "公司除須自行架設伺服器外，亦須負責電腦網絡管理",
+            "md": "公司除須自行架設伺服器外，<u>亦須負責電腦網絡管理</u>"
+          },
+          {
+            "level": 0,
+            "text": "需確保所有分行均能穩定存取共享資源",
+            "md": "需確保所有分行均能<u>穩定存取共享資源</u>"
+          },
+          {
+            "level": 0,
+            "text": "隨着種子公司業務擴張，分行數目增加，網絡架構日趨複雜，管理難度亦隨之上升",
+            "md": "隨着種子公司業務擴張，分行數目增加，網絡架構日趨複雜，<u>管理難度亦隨之上升</u>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 15,
+    "hidden": false,
+    "title": "互聯網很複雜",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Diagram Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "這就是為什麼互聯網在圖示中通常以雲作為代表符號",
+            "md": "這就是為什麼互聯網在圖示中通常以**雲**作為代表符號"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 16,
+    "hidden": false,
+    "title": "轉捩點 —— 尋找更佳方案",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "面對硬件、軟件及網絡管理三方面的挑戰，",
+            "md": "面對**硬件**、**軟件**及**網絡管理**三方面的挑戰，"
+          },
+          {
+            "level": 0,
+            "text": "你（新總裁）開始思考：有沒有更好的方法呢?",
+            "md": "你（新總裁）開始思考：<span style=\"color:#0070C0\">**有沒有更好的方法呢?**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; illustration aimed at 16yearold students as viewers — mature, stylish, intelligentlooking illustration, NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style. Scene: A split composition divided by a thin clean white vertical line down the middle, showing one continuous ground plane that forks into two diverging paths. On the left side, an adult male professional in his early thirties with short black hair, wearing a simple business shirt buttoned fully to the top collar button, trousers and flat formal shoes, stands hunched under the weight of an oversized backpack piled with three heavy abstract burdens — a blocky tower shape resembling stacked server hardware, a tangled dense ball of cablelike lines, and a leaning stack of flat panel shapes resembling software modules. The ground beneath his feet is cracked and jagged in heavy navy tones, his posture strained, looking down at the fractured path with a tired, thoughtful expression. On the right side, an adult female professional in her early thirties with long black hair, wearing a simple business blouse buttoned fully to the top collar button, long trousers no skirt and flat formal shoes not high heels, stands lightly upright with confident posture on a smooth, softly glowing platform shaped like a stylized rounded cloud silhouette floating slightly above the ground, one hand extended back toward the male figure in an inviting gesture. Her path is clean, open, and unobstructed in soft teal tones with a gentle upward incline suggesting ease and elevation. The two paths meet at a single fork point at the bottom center of the frame, visually connecting both figures within one unified ground. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition, horizontal orientation. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework, darks, and the burdened left path; single accent colour teal 2A9D8F for the cloud platform and right path to signal a positive direction; plus soft neutral greys for secondary shading. Simple, uncluttered composition, one clear focal point at the central fork where both figures meet, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 17,
+    "hidden": false,
+    "title": "轉捩點 —— 尋找更佳方案",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "面對硬件、軟件及網絡管理三方面的挑戰，",
+            "md": "面對**硬件**、**軟件**及**網絡管理**三方面的挑戰，"
+          },
+          {
+            "level": 0,
+            "text": "你（新總裁）開始思考：有沒有更好的方法呢?",
+            "md": "你（新總裁）開始思考：<span style=\"color:#0070C0\">**有沒有更好的方法呢?**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; illustration aimed at 16yearold students as viewers — mature, stylish, intelligentlooking illustration, NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style. Scene: A split composition divided by a thin clean white vertical line down the middle, showing one continuous ground plane that forks into two diverging paths. On the left side, an adult male professional in his early thirties with short black hair, wearing a simple business shirt buttoned fully to the top collar button, trousers and flat formal shoes, stands hunched under the weight of an oversized backpack piled with three heavy abstract burdens — a blocky tower shape resembling stacked server hardware, a tangled dense ball of cablelike lines, and a leaning stack of flat panel shapes resembling software modules. The ground beneath his feet is cracked and jagged in heavy navy tones, his posture strained, looking down at the fractured path with a tired, thoughtful expression. On the right side, an adult female professional in her early thirties with long black hair, wearing a simple business blouse buttoned fully to the top collar button, long trousers no skirt and flat formal shoes not high heels, stands lightly upright with confident posture on a smooth, softly glowing platform shaped like a stylized rounded cloud silhouette floating slightly above the ground, one hand extended back toward the male figure in an inviting gesture. Her path is clean, open, and unobstructed in soft teal tones with a gentle upward incline suggesting ease and elevation. The two paths meet at a single fork point at the bottom center of the frame, visually connecting both figures within one unified ground. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition, horizontal orientation. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework, darks, and the burdened left path; single accent colour teal 2A9D8F for the cloud platform and right path to signal a positive direction; plus soft neutral greys for secondary shading. Simple, uncluttered composition, one clear focal point at the central fork where both figures meet, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "答案便是雲計算（Cloud Computing）",
+            "md": "答案便是<span style=\"color:#FFCE2B\">**雲計算（Cloud Computing）**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 18,
+    "hidden": true,
+    "title": "轉捩點 —— 尋找更佳方案",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "面對硬件、軟件及網絡管理三方面的挑戰，",
+            "md": "面對**硬件**、**軟件**及**網絡管理**三方面的挑戰，"
+          },
+          {
+            "level": 0,
+            "text": "公司開始思考：有沒有更好的方法呢?",
+            "md": "公司開始思考：<span style=\"color:#0070C0\">**有沒有更好的方法呢?**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; aimed at 16yearold students — NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style; mature, stylish, intelligentlooking illustration. Scene: A split composition divided by a thin clean white vertical line down the middle, showing one continuous ground plane that forks into two diverging paths. On the left side, a teenage male student with short black hair, wearing a simple blazer uniform, stands hunched under the weight of an oversized backpack piled with three distinct heavy abstract burdens strapped together — a blocky tower shape resembling stacked server hardware, a tangled dense ball of cablelike lines, and a leaning stack of flat panel shapes resembling software modules. The ground beneath his feet is cracked and jagged, rendered in heavy navy tones, and his posture is strained, shoulders low, looking down at the fractured path with a tired, thoughtful expression. On the right side, a teenage female student with long black hair stands lightly upright with confident posture on a smooth, softly glowing platform shaped like a stylized rounded cloud silhouette that floats slightly above the ground, one hand extended back toward the male student in an inviting gesture. Her path is clean, open, and unobstructed, rendered in soft teal tones with a gentle upward incline suggesting ease and elevation. The two paths meet at a single fork point at the bottom center of the frame, visually connecting both figures within one unified ground. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework, darks, and the burdened left path; single accent colour teal 2A9D8F for the cloud platform and right path to signal a positive direction; plus soft neutral greys for secondary shading. Simple, uncluttered composition, one clear focal point at the central fork where both figures meet, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; aimed at 16yearold students — NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style; mature, stylish, intelligentlooking illustration. Scene: A split composition divided by a thin clean white vertical line down the middle, showing one continuous ground plane that forks into two diverging paths. On the left side, a teenage male student with short black hair, wearing a simple blazer uniform, stands hunched under the weight of an oversized backpack piled with three distinct heavy abstract burdens strapped together — a blocky tower shape resembling stacked server hardware, a tangled dense ball of cablelike lines, and a leaning stack of flat panel shapes resembling software modules. The ground beneath his feet is cracked and jagged, rendered in heavy navy tones, and his posture is strained, shoulders low, looking down at the fractured path with a tired, thoughtful expression. On the right side, a teenage female student with long black hair stands lightly upright with confident posture on a smooth, softly glowing platform shaped like a stylized rounded cloud silhouette that floats slightly above the ground, one hand extended back toward the male student in an inviting gesture. Her path is clean, open, and unobstructed, rendered in soft teal tones with a gentle upward incline suggesting ease and elevation. The two paths meet at a single fork point at the bottom center of the frame, visually connecting both figures within one unified ground. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework, darks, and the burdened left path; single accent colour teal 2A9D8F for the cloud platform and right path to signal a positive direction; plus soft neutral greys for secondary shading. Simple, uncluttered composition, one clear focal point at the central fork where both figures meet, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "答案是雲計算（Cloud Computing）",
+            "md": "答案是<span style=\"color:#FFCE2B\">**雲計算（Cloud Computing）**</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 19,
+    "hidden": false,
+    "title": "雲計算的核心概念",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "你毋須擁有實體電腦資源設備",
+            "md": "你<u>毋須擁有實體電腦資源設備</u>"
+          },
+          {
+            "level": 0,
+            "text": "改以租用方式，向雲端服務供應商取得所需資源",
+            "md": "改以<u>租用方式</u>，向雲端服務供應商取得所需資源"
+          },
+          {
+            "level": 0,
+            "text": "由供應商負責硬件維護、系統更新及網絡基礎建設",
+            "md": "**由供應商負責**<u>硬件維護、系統更新及網絡基礎建設</u>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: lefttoright contrast with a transformation arrow, plus branching connections to a responsibility list. On the left side, an icon of a physical server rack/tower is placed with the label \"自行擁有設備\" beneath it. A single bold thinline arrow points from this left icon toward the right side, indicating a shift. On the right side, an icon of a simple cloud shape is placed with the label \"租用雲端資源\" beneath it. A thin vertical divider line separates the left and right halves. From the cloud icon on the right, three thin connecting lines branch downward and outward to three small responsibility nodes arranged in a row beneath the cloud, each with its own small thinline icon and label: \"硬件維護\" wrench icon, \"系統更新\" refresh/update icon, \"網絡建設\" network/signal icon. These three nodes should visually appear as being provided by the cloud/supplier side. All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for the transformation arrow, connecting lines, cloud icon, and responsibility icons, since this is a neutral/informative theme. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 20,
+    "hidden": false,
+    "title": "優勢一 即用即付",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "用量多少，收費相應計算，毋須預先承擔龐大固定成本",
+            "md": "<u>用量多少，收費相應計算</u>，毋須預先承擔龐大固定成本"
+          },
+          {
+            "level": 0,
+            "text": "有效解決硬件管理中前期硬件投資龐大，公司伺服器效能跟不上業務拓展的速度，需要經常更換硬件等問題",
+            "md": "有效解決**硬件管理**中<u>前期硬件投資龐大</u>，<u>公司伺服器效能跟不上業務拓展的速度</u>，需要<u>經常更換硬件</u>等問題"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: threepanel horizontal flow connected by arrows, showing a problem being resolved by a cloud advantage. Panel 1 leftmost: a small icon of a large coin stack with a warning mark, labeled \"前期投資龐大\", drawn in amberorange E76F51 to visually echo the earlier hardwaremanagement problem. A thin teal arrow points from Panel 1 to Panel 2, with a small checkmark icon on the arrow indicating resolution. Panel 2 middle: an icon of a usage meter or dial, labeled \"即用即付\", drawn in teal 2A9D8F. A second thin teal arrow points from Panel 2 to Panel 3. Panel 3 rightmost: two small icons side by side — a calculator/scale icon and a brokenchain icon representing removal of fixed cost — with two short labels stacked beneath them: \"按量計費\" and \"免固定成本\". All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; two accent colours used deliberately — amberorange E76F51 only for the Panel 1 problem icon and label referencing the earlier risk, and teal 2A9D8F for all arrows, the Panel 2 solution icon, and Panel 3 icons/labels, since the overall theme is a positive resolution. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 21,
+    "hidden": false,
+    "title": "優勢二 彈性靈活",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲端伺服器可隨時啟動或停用",
+            "md": "雲端伺服器可<u>隨時啟動</u>或<u>停用</u>"
+          },
+          {
+            "level": 0,
+            "text": "甚至可僅租用一天的運算資源",
+            "md": "甚至<u>可僅租用一天的運算資源</u>"
+          },
+          {
+            "level": 0,
+            "text": "毋須因短期需求而作出長期投資",
+            "md": "毋須因短期需求而作出長期投資"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Flat vector illustration, minimalist, simple, textbookquality style, 16:9 landscape composition, pure white FFFFFF background, completely plain with no texture, no pattern, no frame, no shadow, no coloured background panels. Layout: threepanel horizontal flow connected by arrows, showing a causeandeffect progression of flexibility. Panel 1 leftmost: an icon of a power on/off toggle switch, labeled \"隨時啟停伺服器\". A thin teal arrow points from Panel 1 to Panel 2. Panel 2 middle: an icon of a single calendar day highlighted representing a oneday rental, labeled \"僅租一天資源\". A second thin teal arrow points from Panel 2 to Panel 3. Panel 3 rightmost: an icon of an open padlock or a broken chain link representing no longterm commitment, labeled \"免長期投資\". All text must be in Traditional Chinese 繁體中文, formal written style, using a sansserif Traditional Chinese typeface Noto Sans TC style with clear and correct character strokes. No Simplified Chinese, no English, no Japanese text anywhere. Icons: thin 2px line icons, simple, easy to understand, one icon per item only. Colour: white background; text in deep navy 1F3A5F; one accent colour only — teal 2A9D8F for the arrows and all three icons, since this is a positive/neutral advantage theme. Composition: generous white space, evenly spaced, perfectly aligned, no gradients, no 3D effects, no clutter, no title, no heading, no caption. Highly legible when projected in a classroom."
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 22,
+    "hidden": false,
+    "title": "優勢三 規模可伸縮",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "企業可因應業務需求變化，輕鬆擴大或縮小雲端資源規模",
+            "md": "企業可因應業務需求變化，<u>輕鬆擴大或縮小雲端資源規模</u>"
+          },
+          {
+            "level": 0,
+            "text": "例如：年結期間業務繁忙可調高資源用量；淡季時則可相應調低",
+            "md": "例如：年結期間<u>業務繁忙</u>可<u>**調高資源用量**</u>；<u>淡季時</u>則可<u>**相應調低**</u>"
+          },
+          {
+            "level": 0,
+            "text": "解決投資難以配合需求波動的問題",
+            "md": "解決投資難以配合需求波動的問題"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "流量：",
+            "md": "<span style=\"color:#373545\">**流量：**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "較低",
+            "md": "<span style=\"color:#373545\">**較低**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "增加時",
+            "md": "<span style=\"color:#373545\">**增加時**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "季節性高峰",
+            "md": "<span style=\"color:#373545\">**季節性高峰**</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Great Questions on Scalability – {Dotnet}.Share(knowledge)"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "更多的服務器臨時加入以處理短時間極端流量",
+            "md": "**更多的服務器臨時加入以處理短時間極端流量**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "額外的服務器加入",
+            "md": "**額外的服務器加入**"
+          },
+          {
+            "level": 0,
+            "text": "以分擔工作負載",
+            "md": "**以分擔工作負載**"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "服務器:",
+            "md": "<span style=\"color:#373545\">**服務器:**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "1台服務器",
+            "md": "**1台服務器**"
+          },
+          {
+            "level": 0,
+            "text": "就足夠了",
+            "md": "**就足夠了**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 23,
+    "hidden": false,
+    "title": "優勢四 軟件即用",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "升級由供應商統一處理",
+            "md": "**升級**由<u>供應商統一處理</u>"
+          },
+          {
+            "level": 0,
+            "text": "種子公司毋須自行研究依賴關係，亦毋須承擔試錯的風險",
+            "md": "種子公司<u>**毋須**</u><u>自行研究依賴關係</u>，亦<u>**毋須**</u><u>承擔試錯的風險</u>"
+          },
+          {
+            "level": 0,
+            "text": "公司同事能夠即開即用軟件，例如Microsoft Excel",
+            "md": "公司同事能夠即開即用軟件，例如Microsoft Excel"
+          },
+          {
+            "level": 0,
+            "text": "新的 AI 功能一經推出即可使用",
+            "md": "新的 AI 功能一經推出即可使用"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 24,
+    "hidden": false,
+    "title": "優勢五 免自建網絡",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "供應商的網絡早已鋪設完成，公司只需接入使用",
+            "md": "供應商的網絡早已鋪設完成，公司只需接入使用"
+          },
+          {
+            "level": 0,
+            "text": "種子公司的同事只要能上網便能夠連接各分行伺服器，毋須自建專門的網絡線路",
+            "md": "種子公司的同事<u>**只要能上網**</u>便能夠連接各分行伺服器，毋須自建專門的網絡線路"
+          },
+          {
+            "level": 0,
+            "text": "新開分行當日即可接入系統，毋須等候網絡工程",
+            "md": "新開分行當日即可接入系統，<u>**毋須**</u><u>等候網絡工程</u>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 25,
+    "hidden": false,
+    "title": "故事結局(劇透)",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "種子公司最後採用雲計算後，成功節省：",
+            "md": "種子公司最後採用雲計算後，成功節省："
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "金錢",
+            "md": "**金錢**"
+          },
+          {
+            "level": 0,
+            "text": "毋須承擔龐大硬件投資",
+            "md": "毋須承擔龐大硬件投資"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "時間",
+            "md": "**時間**"
+          },
+          {
+            "level": 0,
+            "text": "毋須自行處理系統升級",
+            "md": "毋須自行處理系統升級"
+          },
+          {
+            "level": 0,
+            "text": "及網絡維護",
+            "md": "及網絡維護"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "人力資源",
+            "md": "**人力資源**"
+          },
+          {
+            "level": 0,
+            "text": "減少資訊科技團隊",
+            "md": "減少資訊科技團隊"
+          },
+          {
+            "level": 0,
+            "text": "維護伺服器的人員",
+            "md": "維護伺服器的人員"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 26,
+    "hidden": true,
+    "title": "故事結局",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "你的物業管理公司採用雲計算後，成功節省：",
+            "md": "你的物業管理公司採用雲計算後，成功節省："
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Japanese anime / manga illustration style, clean modern seinenleaning art, semirealistic proportions, expressive but restrained; aimed at 16yearold students — NOT childish, NOT chibi, NOT kawaii mascot style, NOT picturebook style; mature, stylish, intelligentlooking illustration. Scene: A triptych composition divided into three equal vertical panels by two thin clean white lines, all sharing the same simple ground line so the sequence reads as one continuous story. Left panel money saved: A teenage male student with short black hair, wearing a simple blazer uniform, stands calmly beside a small intact stack of coinlike discs and a closed simple chest shape, both untouched and stable. Behind him, a large blocky servertower silhouette is shown faded, greyedout, and shrunk into the far background with a soft dashed outline, visually implying it is no longer needed. His posture is relaxed, one hand resting on the coin stack, expression calm and satisfied. Middle panel time saved: A teenage female student with long black hair sits comfortably on a simple low platform, holding a plain closed book on her lap, expression relaxed and unhurried. Beside her floats a simple round gearandclock hybrid shape, its gears turning smoothly on its own with a faint soft glow, requiring no handson adjustment from her, symbolizing automatic upkeep freeing her time. Right panel manpower refocused: The same male and female student stand together, now working side by side to stack simple geometric building blocks upward into a small growing tower shape representing new business growth. Beside their feet, a tangled cablelike shape has been neatly coiled into a small tidy loop and set aside untouched, showing that maintenance work is no longer their focus. Their expressions are engaged and focused on the blocks they are building, leaning slightly toward each other in collaboration. ABSOLUTELY NO TEXT of any kind — no letters, no words, no numbers, no captions, no labels, no signage, no UI text, no logos, no watermarks. All surfaces that would normally carry text must be left blank or suggested only by abstract shapes and lines. No real brand logos of any kind. Crisp clean linework, flat celshading with soft simple shadows, limited palette, no heavy gradients, no 3D render, no photorealism. 16:9 landscape composition. Pure white FFFFFF background, completely plain — no texture, no pattern, no frame, no border, no drop shadow, no coloured backdrop. Subjects float on clean white space with generous negative space. Restrained colour palette: deep navy 1F3A5F for linework and darks; single accent colour teal 2A9D8F used consistently across the glowing gear, the growing block tower, and highlight details in all three panels to signal a positive resolution; plus soft neutral greys for the faded server silhouette and secondary shading. Simple, uncluttered composition, one clear focal point per panel, readable silhouette, legible when projected in a classroom. Highquality editorial illustration, textbookquality, professional anime illustration."
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "時間",
+            "md": "**時間**"
+          },
+          {
+            "level": 0,
+            "text": "毋須自行處理系統升級",
+            "md": "毋須自行處理系統升級"
+          },
+          {
+            "level": 0,
+            "text": "及網絡維護",
+            "md": "及網絡維護"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "人力資源",
+            "md": "**人力資源**"
+          },
+          {
+            "level": 0,
+            "text": "資訊科技團隊可專注於",
+            "md": "資訊科技團隊可專注於"
+          },
+          {
+            "level": 0,
+            "text": "核心業務發展",
+            "md": "核心業務發展"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "金錢",
+            "md": "**金錢**"
+          },
+          {
+            "level": 0,
+            "text": "毋須承擔龐大硬件投資",
+            "md": "毋須承擔龐大硬件投資"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 27,
+    "hidden": false,
+    "title": "課堂重點總結",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "雲計算的核心價值，在於讓企業將基礎設施管理責任交由專業供應商負責，從而可以專注於核心業務發展",
+            "md": "**雲計算的核心價值**，在於讓企業將基礎設施<u>管理責任交由專業供應商負責</u>，從而可以<u>專注於核心業務發展</u>"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "has_header": false,
+        "rows": [
+          [
+            "傳統自架伺服器的挑戰",
+            "雲計算的對應特性",
+            "優勢"
+          ],
+          [
+            "硬件管理",
+            "即用即付",
+            "免除初期高昂的硬件採購與維護成本，按實際用量付費。"
+          ],
+          [
+            "軟件管理",
+            "彈性靈活",
+            "快速部署及更新作業系統、中介軟件與應用程式，減輕維護負擔。"
+          ],
+          [
+            "網絡管理",
+            "規模可伸縮",
+            "隨業務需求即時擴充或縮減頻寬與運算資源，維持網絡效能穩定。"
+          ]
+        ],
+        "markdown": "|   |   |   |\n| --- | --- | --- |\n| **傳統自架伺服器的挑戰** | **雲計算的對應特性** | **優勢** |\n| **硬件管理** | 即用即付 | 免除初期**高昂的硬件採購**與**維護成本**，按實際用量付費。 |\n| **軟件管理** | 彈性靈活 | 快速部署及更新作業系統、中介軟件與應用程式，**減輕維護負擔**。 |\n| **網絡管理** | 規模可伸縮 | 隨業務需求**即時擴充或縮減**頻寬與運算資源，維持網絡效能穩定。 |"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 28,
+    "hidden": false,
+    "title": "課堂任務",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "地端Local vs 雲端Cloud：影像辨識對決(Lab 3)",
+            "md": "**地端Local vs 雲端Cloud：影像辨識對決(Lab 3)**"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": "新課堂任務: 用 image-file upload local vs cloud image recognition (aim fair comparison)Local: 使用 Teachable Machine （https://teachablemachine.withgoogle.com/train/image）vs. Cloud: https://demo.imagga.com/tagging-v2; SaaS 屬於現成服務，而自建模型需要自行訓練"
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 29,
+    "hidden": true,
+    "title": "為什麼選擇雲計算?",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "網絡設備、計算機硬件和計算機軟件管理繁瑣",
+            "md": "網絡設備、計算機硬件和計算機軟件管理繁瑣"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 30,
+    "hidden": true,
+    "title": "雲計算的優勢",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "用戶/企業不必擁有電腦資源設備",
+            "md": "用戶/企業不必擁有電腦資源設備"
+          },
+          {
+            "level": 0,
+            "text": "租用形式",
+            "md": "租用形式"
+          },
+          {
+            "level": 0,
+            "text": "即用即付",
+            "md": "即用即付"
+          },
+          {
+            "level": 0,
+            "text": "用戶/企業可以隨時停掉雲服務器",
+            "md": "用戶/企業可以隨時停掉雲服務器"
+          },
+          {
+            "level": 0,
+            "text": "甚至可以只租用一天的服務器",
+            "md": "甚至可以只租用一天的服務器"
+          },
+          {
+            "level": 0,
+            "text": "可以輕鬆地擴大和縮小雲服務器規模以滿足用戶/企業的業務需求的變化",
+            "md": "可以輕鬆地擴大和縮小雲服務器規模以滿足用戶/企業的業務需求的變化"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 31,
+    "hidden": true,
+    "title": "網絡管理極具挑戰性",
+    "blocks": [],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 32,
+    "hidden": true,
+    "title": "各式各樣的網絡設備",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "集線器Hub /交換機Switch",
+            "md": "集線器Hub /交換機Switch"
+          },
+          {
+            "level": 0,
+            "text": "路由器Router",
+            "md": "路由器Router"
+          },
+          {
+            "level": 0,
+            "text": "有線與無線連接",
+            "md": "有線與無線連接"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 33,
+    "hidden": true,
+    "title": "局 域 網 Local Area Network (LAN）",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Client-server - Simple English Wikipedia, the free encyclopedia"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "局域網LAN廣泛存在於辦公場所、學校及家居裡",
+            "md": "局域網LAN廣泛存在於辦公場所、學校及家居裡"
+          },
+          {
+            "level": 0,
+            "text": "先把一個「小區」的電腦連起來",
+            "md": "先把一個「小區」的電腦連起來"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 34,
+    "hidden": true,
+    "title": "廣 域 網 Wide Area Network (WAN）",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "WAN",
+            "md": "<span style=\"color:#92D050\">**WAN**</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "WAN再把不同的LAN連起來",
+            "md": "WAN再把不同的LAN連起來"
+          },
+          {
+            "level": 0,
+            "text": "WAN可覆蓋大片地理面積，例如城市甚至乎國家",
+            "md": "WAN可覆蓋大片地理面積，例如城市甚至乎國家"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "Routers - Cisco"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN",
+            "md": "<span style=\"color:#3494BA\">LAN</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 35,
+    "hidden": true,
+    "title": "什麼是交換機 Switch?",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "一種網絡硬件，連接同一個LAN上的電腦和網絡設備",
+            "md": "一種網絡硬件，連接<u>**同一個LAN**</u>上的電腦和網絡設備"
+          },
+          {
+            "level": 0,
+            "text": "它通過使用數據包packet交換接收數據並將數據轉發到目標設備",
+            "md": "它通過使用<span style=\"color:#58B6C0\"><u>**數據包packet交換**</u></span>接收數據並將數據轉發到目標設備"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 36,
+    "hidden": true,
+    "title": "什麼是路由器 Router",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Routers - Cisco"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "路由器是在LAN與LAN之間轉發數據包的網絡設備。",
+            "md": "路由器是在<span style=\"color:#7A8C8E\"><u>LAN與LAN</u></span><span style=\"color:#7A8C8E\">之間</span>轉發數據包的網絡設備。"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 37,
+    "hidden": true,
+    "title": "交換機 Switch 與 路由器 Router",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "交換機 Switch",
+            "md": "<span style=\"color:#00B050\">交換機 Switch</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "路由器 Router",
+            "md": "<span style=\"color:#BF9000\">路由器 Router</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "交換機 Switch",
+            "md": "<span style=\"color:#00B050\">交換機 Switch</span>"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A red sign with white text Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "LAN， Switch & Router",
+            "md": "[<span style=\"color:#7030A0\"><u>**LAN， Switch & Router**</u></span>](https://youtu.be/8081VK9QE1k?si=9aH0xJLcN9kGy_oI)"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "交換機 Switch",
+            "md": "<span style=\"color:#00B050\">交換機 Switch</span>"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "交換機 Switch",
+            "md": "<span style=\"color:#00B050\">交換機 Switch</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 38,
+    "hidden": true,
+    "title": "家用無線路由器 Wireless Router",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "1200Mbps Wireless Wifi Router Dual band Wifi Reapter Extender 1*WAN 4*LAN Gigabit USB Ports English Firmware Wider Coverage ZBT|Wireless Routers| - AliExpress"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "將您家中的電腦裝置連接到互聯網（一種廣域網絡）（「上網」）",
+            "md": "將您家中的電腦裝置連接到互聯網（一種廣域網絡）（「上網」）"
+          },
+          {
+            "level": 0,
+            "text": "無線路由器是執行路由器功能的設備，包括無線接入點的功能",
+            "md": "無線路由器是執行路由器功能的設備，包括無線接入點的功能"
+          },
+          {
+            "level": 0,
+            "text": "它用於提供對 Internet 或專用計算機網絡的訪問",
+            "md": "它用於提供對 Internet 或專用計算機網絡的訪問"
+          },
+          {
+            "level": 0,
+            "text": "根據製造商和型號的不同，種類包括：有線局域網、純無線 LAN 或混合有線和無線網絡。",
+            "md": "根據製造商和型號的不同，種類包括：有線局域網、純無線 LAN 或混合有線和無線網絡。"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 39,
+    "hidden": true,
+    "title": "數據包交換",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "通過 Internet 發送的數據並不總是通過相同的路徑傳輸",
+            "md": "通過 Internet 發送的數據並不總是通過相同的路徑傳輸"
+          },
+          {
+            "level": 0,
+            "text": "過程中保持自我優化",
+            "md": "過程中保持自我優化"
+          }
+        ]
+      },
+      {
+        "type": "image",
+        "text": "A red sign with white text Description automatically generated"
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "Packet Switching",
+            "md": "[<span style=\"color:#7030A0\"><u>**Packet Switching**</u></span>](https://www.youtube.com/watch?v=Dx04JCbYMMI&list=PLWfVcpjMQd0OkWOzowkxow0i9h87C-5vW&index=4)"
+          }
+        ]
+      },
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "數據包交換在這課程不作深究。",
+            "md": "<span style=\"color:#FF0000\">數據包交換在這課程不作深究。</span>"
+          },
+          {
+            "level": 0,
+            "text": "同學略知概念(看片)即可",
+            "md": "<span style=\"color:#FF0000\">同學略知概念(看片)即可</span>"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 40,
+    "hidden": true,
+    "title": "各種無線連接",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "無線上網 WIFI",
+            "md": "無線上網 WIFI"
+          },
+          {
+            "level": 0,
+            "text": "藍牙 Bluetooth",
+            "md": "藍牙 Bluetooth"
+          },
+          {
+            "level": 0,
+            "text": "4G/5G",
+            "md": "4G/5G"
+          },
+          {
+            "level": 0,
+            "text": "衛星 Satellite",
+            "md": "衛星 Satellite"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 41,
+    "hidden": true,
+    "title": "課堂任務",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "認識 ping 命令 (Lab 8)",
+            "md": "認識 ping 命令 (Lab 8)"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 42,
+    "hidden": true,
+    "title": "專業的數據中心網絡線管理",
+    "blocks": [
+      {
+        "type": "image",
+        "text": "Digital Realty Cements Control of US Northwest&#39;s Primary Network Hub | Data Center Knowledge"
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 43,
+    "hidden": true,
+    "title": "硬件管理是一個巨大挑戰",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "升級往往導致服務中斷",
+            "md": "升級往往導致服務中斷"
+          },
+          {
+            "level": 0,
+            "text": "新設備衝突導致系統宕機",
+            "md": "新設備衝突導致系統宕機"
+          },
+          {
+            "level": 0,
+            "text": "硬件投資大、硬件生命週期短",
+            "md": "硬件投資大、硬件生命週期短"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  },
+  {
+    "source_file": "CloudComputingIntro-02-NL02-CloudCharacteristics.pptx",
+    "slide_number": 44,
+    "hidden": true,
+    "title": "軟件管理更不容易",
+    "blocks": [
+      {
+        "type": "text",
+        "paragraphs": [
+          {
+            "level": 0,
+            "text": "軟件更新/升級越來越頻繁",
+            "md": "軟件更新/升級越來越頻繁"
+          },
+          {
+            "level": 0,
+            "text": "軟件的”依賴關係”極為複雜",
+            "md": "軟件的”依賴關係”極為複雜"
+          },
+          {
+            "level": 1,
+            "text": "例如： iOS 升級 導致 應用程式版本必需升級",
+            "md": "例如： iOS 升級 導致 應用程式版本必需升級"
+          },
+          {
+            "level": 0,
+            "text": "軟件升級結果難於掌握",
+            "md": "軟件升級結果難於掌握"
+          },
+          {
+            "level": 0,
+            "text": "有些軟件已經運行了幾十年，現在的員工無人了解其內部運作",
+            "md": "有些軟件已經運行了幾十年，現在的員工無人了解其內部運作"
+          }
+        ]
+      }
+    ],
+    "speaker_notes": ""
+  }
+]
